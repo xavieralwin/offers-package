@@ -18086,7 +18086,7 @@ window.OFFERS_DATA =
     "offerName": "Exclusive Privileges",
     "location": "Singapore",
     "name": "Clarissa Mok",
-    "offerImage": "offer_merc_image_848550.jpg",
+    "offerImage": "offer_merc_image_848550.png",
     "offerDescriptions": [
       "First-time Oriental Remedies Clinic Patients only",
       "Consultation + Complimentary Acupuncture OR Cupping at S$38",
@@ -18108,5 +18108,76 @@ window.OFFERS_DATA =
       "\"Citibank\" refers to Citibank Singapore Limited and “Oriental Remedies\" refers to Oriental Remedies Incorporated Pte Ltd."
     ],
     "anchorId": "sg-848550"
+  },
+  {
+    "offerNumber": 460,
+    "merchantId": "219154",
+    "merchantName": "Shopee 11.11 Big Sale",
+    "validity": "10-Nov-26 To 17-Nov-26",
+    "validFrom": "2026-11-10",
+    "validTo": "2026-11-17",
+    "offerType": "Shopping",
+    "offerSubType": "Online Shopping",
+    "offerTagName": "Online",
+    "offerName": "Up to S$60 off with min. spend",
+    "location": "Singapore",
+    "name": "Clarissa Mok",
+    "offerImage": "offer_merc_image_219154.jpg",
+    "offerDescriptions": [
+      "S$22 off min. S$220 spend",
+      "S$60 off min. S$350 spend"
+    ],
+    "offerTermsAndConditions": [
+      "Offer is valid from 20:00 (SGT) 10 November 2026, and expires at 23:59 (SGT) 17 November 2025 or when fully redeemed, whichever is earlier.",
+      "Payment must be charged using Citi Mastercard Credit / Debit Card.",
+      "Promotion not eligible for Purchasing Card / Citi Travel Lodge Card / Citi Travel Account.",
+      "User must select Citi Mastercard Credit / Debit Card and select the claimed voucher for the discount to be reflected immediately, prior to placing order.",
+      "Promotion is not valid for products from Shopee paid ads store, the “Miscellaneous” and “Dining, Travel & Services” category, selected resellers, seller store pick up, web purchase & selected items (Stage 1 & 2 Milk Formulas and Grab Vouchers).",
+      "An eligible Citi Cardmember may only make 1 redemption per offer.",
+      "User must meet the minimum spend criteria of the voucher.",
+      "Citibank, Mastercard and Shopee's decision on all matters relating to the Promotion will be determined at its sole discretion and is final and binding on all participants.",
+      "Citibank, Mastercard and Shopee shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank and Shopee shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be directed to the supplier of such products and/or services.",
+      "Citi Cardmember may contact support@shopee.sg in the event of any disputes regarding the Promotion.",
+      "Citibank, Mastercard and Shopee reserve the right at each of its absolute discretion to vary, delete or add to any of these terms and conditions at any time without notice including without limitation, the eligibility of any customer and the dates of the promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited, “Mastercard” refers to “Mastercard Asia/Pacific Pte Ltd” and \"Shopee\" refers to Shopee Singapore Private Limited."
+    ],
+    "anchorId": "sg-219154"
+  },
+  {
+    "offerNumber": 461,
+    "merchantId": "510793",
+    "merchantName": "Four Seasons Hotel Singapore",
+    "validity": "27-Oct-26 To 30-Nov-26",
+    "validFrom": "2026-10-27",
+    "validTo": "2026-11-30",
+    "offerType": "Dining",
+    "offerSubType": "Hotel Dining",
+    "offerTagName": "NULL",
+    "offerName": "15% off Festive Roasts, Festive Sides, Festive Appetisers & Festive Pâtisserie",
+    "location": "Singapore",
+    "name": "May Lin Tan",
+    "offerImage": "offer_merc_image_510793.jpg",
+    "offerDescriptions": [
+      "15% off Festive Roasts, Festive Sides, Festive Appetisers & Festive Pâtisserie",
+      "(Promo Code: CITI15)",
+      "Order Website: https://fourseasonssingapore.com/FestiveDelights",
+      "Order enquiry email: festiveseason.sin@fourseasons.com"
+    ],
+    "offerTermsAndConditions": [
+      "Promotion is valid from 27 October 2026 – 30 November 2026, both dates inclusive.",
+      "Payment must be made using a Citi Credit / Citibank Debit Card to enjoy the promotion.",
+      "For online orders, please key in the Citi promo code upon checkout.",
+      "Offers cannot be used in conjunction with any other discounts, privileges, promotions, vouchers, membership privileges or privileges/VIP cards unless otherwise stated.",
+      "Orders should be made minimum 72 hours prior to collection date.",
+      "Valid at stated date or while stocks last.",
+      "For orders and enquiries, please email festiveseason.sin@fourseasons.com",
+      "Self-collection is available daily from 10 November to 25 December 2026 at Festive Desk (Lobby Level), from 11:00am to 7:00pm.",
+      "Delivery charge of S$58++ applies per location within Singapore, available from 10 November to 25 December 2026 on Mondays to Fridays, from 12pm to 5pm, excluding the eve and the day of the Holiday. Delivery requests are subject to availability.",
+      "Citibank's and Four Seasons Hotel Singapore’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Four Seasons Hotel Singapore.",
+      "Citibank and Four Seasons Hotel Singapore reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The terms \"Four Seasons Hotel Singapore” refers to HPL Properties Pte Ltd dba Four Seasons Hotel Singapore."
+    ],
+    "anchorId": "sg-510793"
   }
 ]
