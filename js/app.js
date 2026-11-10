@@ -23,6 +23,12 @@
   const resultsToolbarEl = document.getElementById('resultsToolbar');
   const offersRegionEl = document.getElementById('offersRegion');
   const pageFooterEl = document.getElementById('footer');
+  const footerPlayStoreLinkEl = document.getElementById('footerPlayStoreLink');
+  const footerPlayStoreImgEl = document.getElementById('footerPlayStoreImg');
+  const footerAppStoreLinkEl = document.getElementById('footerAppStoreLink');
+  const footerAppStoreImgEl = document.getElementById('footerAppStoreImg');
+  const footerTermsLinkEl = document.getElementById('footerTermsLink');
+  const footerPrivacyLinkEl = document.getElementById('footerPrivacyLink');
   const pageHeadingTitleEl = document.getElementById('pageHeadingTitle');
   const pageIntroEl = document.getElementById('pageIntro');
   const emptyStateTitleEl = document.getElementById('emptyStateTitle');
@@ -335,6 +341,67 @@
     setPropertyIfPresent(countryFlagEl, 'alt', '');
     setPropertyIfPresent(countryStateFlagEl, 'src', flagPath);
     setPropertyIfPresent(countryStateFlagEl, 'alt', '');
+    updateFooterLinks();
+  }
+
+  const FOOTER_LINKS = {
+    SG: {
+      EN: {
+        playStore: 'https://play.google.com/store/apps/details?id=com.citibank.mobile.sg&hl=en-SG',
+        appStore: 'https://apps.apple.com/gb/app/citibank-sg/id370773317',
+        playStoreTitle: 'Citibank SG - Apps on Google Play',
+        appStoreTitle: 'Citibank SG on the App Store',
+        terms: 'https://www.citibank.com.sg/gcb/static/products_tncs',
+        privacy: 'https://www.citibank.com.sg/footer/privacy'
+      }
+    },
+    HK: {
+      EN: {
+        playStore: 'https://play.google.com/store/apps/details?id=com.citibank.mobile.hk',
+        appStore: 'https://apps.apple.com/hk/app/citibank-hk/id373717372?l=en-GB',
+        playStoreTitle: 'Citibank HK - Apps on Google Play',
+        appStoreTitle: 'Citibank HK on the App Store',
+        terms: 'https://www.citibank.com.hk/english/info/disclaimer/?lid=HKENCBGGNFOTLTERMSCONDITIONS',
+        privacy: 'https://www.citibank.com.hk/english/info/privacy/?lid=HKENCBGGNFOTLPRIVACY'
+      },
+      CN: {
+        playStore: 'https://play.google.com/store/apps/details?id=com.citibank.mobile.hk&hl=zh-hk',
+        appStore: 'https://apps.apple.com/hk/app/citibank-hk/id373717372',
+        playStoreTitle: 'Citibank HK - Apps on Google Play',
+        appStoreTitle: 'Citibank HK on the App Store',
+        terms: 'https://www.citibank.com.hk/chinese/info/disclaimer/?lid=HKENCBGGNFOTLTERMSCONDITIONS',
+        privacy: 'https://www.citibank.com.hk/chinese/info/privacy/?lid=HKENCBGGNFOTLPRIVACY'
+      }
+    }
+  };
+
+  function updateFooterLinks() {
+    const marketLinks = (FOOTER_LINKS[currentCountry] && FOOTER_LINKS[currentCountry][currentLanguage]) ||
+      (FOOTER_LINKS[currentCountry] && FOOTER_LINKS[currentCountry].EN) ||
+      FOOTER_LINKS.SG.EN;
+
+    if (footerPlayStoreLinkEl) {
+      footerPlayStoreLinkEl.href = marketLinks.playStore;
+      footerPlayStoreLinkEl.title = marketLinks.playStoreTitle;
+    }
+    if (footerPlayStoreImgEl) {
+      footerPlayStoreImgEl.alt = marketLinks.playStoreTitle;
+      footerPlayStoreImgEl.title = marketLinks.playStoreTitle;
+    }
+    if (footerAppStoreLinkEl) {
+      footerAppStoreLinkEl.href = marketLinks.appStore;
+      footerAppStoreLinkEl.title = marketLinks.appStoreTitle;
+    }
+    if (footerAppStoreImgEl) {
+      footerAppStoreImgEl.alt = marketLinks.appStoreTitle;
+      footerAppStoreImgEl.title = marketLinks.appStoreTitle;
+    }
+    if (footerTermsLinkEl) {
+      footerTermsLinkEl.href = marketLinks.terms;
+    }
+    if (footerPrivacyLinkEl) {
+      footerPrivacyLinkEl.href = marketLinks.privacy;
+    }
   }
 
   function loadSelectedContext(resetHash) {

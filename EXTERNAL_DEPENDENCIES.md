@@ -20,7 +20,7 @@ These are image requests, not API calls. If the image host is unavailable or blo
 
 ## Outbound links (user navigation only)
 
-The header/footer includes links to the Citi World Privileges site and Citi Singapore pages, plus app-store links on `play.google.com` and `apps.apple.com`. They open only when a user follows the link. Links using a new tab have `rel="noopener noreferrer"`.
+The header/footer includes links to the Citi World Privileges site, Citi Singapore and Citi Hong Kong pages (Terms and Conditions and Privacy Policy for SG and HK EN/CN), plus market-specific app-store links on `play.google.com` (`com.citibank.mobile.sg`, `com.citibank.hkg`) and `apps.apple.com` (`id370773317`, `id1452749877`). They open only when a user follows the link. Links using a new tab have `rel="noopener noreferrer"`.
 
 ## Data and security notes
 
