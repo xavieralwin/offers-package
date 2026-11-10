@@ -18107,7 +18107,7 @@ window.OFFERS_DATA =
       "Citibank and Oriental Remedies reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
       "\"Citibank\" refers to Citibank Singapore Limited and “Oriental Remedies\" refers to Oriental Remedies Incorporated Pte Ltd."
     ],
-    "anchorId": "sg-848550"
+    "anchorId": "sg-img-848550"
   },
   {
     "offerNumber": 460,
@@ -18141,7 +18141,7 @@ window.OFFERS_DATA =
       "Citibank, Mastercard and Shopee reserve the right at each of its absolute discretion to vary, delete or add to any of these terms and conditions at any time without notice including without limitation, the eligibility of any customer and the dates of the promotion.",
       "\"Citibank\" refers to Citibank Singapore Limited, “Mastercard” refers to “Mastercard Asia/Pacific Pte Ltd” and \"Shopee\" refers to Shopee Singapore Private Limited."
     ],
-    "anchorId": "sg-219154"
+    "anchorId": "sg-img-219154"
   },
   {
     "offerNumber": 461,
@@ -18178,7 +18178,7 @@ window.OFFERS_DATA =
       "Citibank and Four Seasons Hotel Singapore reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
       "\"Citibank\" refers to Citibank Singapore Limited. The terms \"Four Seasons Hotel Singapore” refers to HPL Properties Pte Ltd dba Four Seasons Hotel Singapore."
     ],
-    "anchorId": "sg-510793"
+    "anchorId": "sg-img-510793"
   },
   {
     "offerNumber": 462,
@@ -18211,7 +18211,7 @@ window.OFFERS_DATA =
       "Citibank and Crowne Plaza Changi Airport reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
       "\"Citibank\" refers to Citibank Singapore Limited. The term \"Crowne Plaza Changi Airport” and “Allora Ristorante & Bar” refers to Crowne Plaza Changi Airport."
     ],
-    "anchorId": "sg-297085"
+    "anchorId": "sg-img-297085"
   },
   {
     "offerNumber": 463,
@@ -18245,6 +18245,6 @@ window.OFFERS_DATA =
       "Citibank and Crowne Plaza Changi Airport reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
       "\"Citibank\" refers to Citibank Singapore Limited. The term \"Crowne Plaza Changi Airport” refers to Crowne Plaza Changi Airport."
     ],
-    "anchorId": "sg-370826"
+    "anchorId": "sg-img-370826"
   }
 ]
