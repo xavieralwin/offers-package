@@ -18082,17 +18082,16 @@ window.OFFERS_DATA =
     "validTo": "2026-12-31",
     "offerType": "Shopping",
     "offerSubType": "Online Shopping",
-    "offerTagName": "NULL",
+    "offerTagName": "Online",
     "offerName": "Exclusive Privileges",
     "location": "Singapore",
     "name": "Clarissa Mok",
     "offerImage": "offer_merc_image_848550.png",
     "offerDescriptions": [
       "First-time Oriental Remedies Clinic Patients only",
-      "Consultation + Complimentary Acupuncture OR Cupping at S$38",
-      "Promo Code: Citi38Promo",
-      "Consultation + Complimentary Electro-Lymphatic Therapy (ELT) at S$58",
-      "Promo Code: Citi58Promo"
+      "Consultation + Complimentary Acupuncture OR Cupping at S$38 Promo Code: Citi38Promo",
+      "Consultation + Complimentary Electro-Lymphatic Therapy (ELT) at S$58 Promo Code: Citi58Promo"
+      
     ],
     "offerTermsAndConditions": [
       "Offer period is from 1 October 2026 to 31 December 2026 (both days inclusive), unless otherwise stated.",
@@ -18139,7 +18138,7 @@ window.OFFERS_DATA =
       "Citibank, Mastercard and Shopee shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank and Shopee shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be directed to the supplier of such products and/or services.",
       "Citi Cardmember may contact support@shopee.sg in the event of any disputes regarding the Promotion.",
       "Citibank, Mastercard and Shopee reserve the right at each of its absolute discretion to vary, delete or add to any of these terms and conditions at any time without notice including without limitation, the eligibility of any customer and the dates of the promotion.",
-      "\"Citibank\" refers to Citibank Singapore Limited, “Mastercard” refers to “Mastercard Asia/Pacific Pte Ltd” and \"Shopee\" refers to Shopee Singapore Private Limited."
+      "\"Citibank\" refers to Citibank Singapore Limited, \"Mastercard\" refers to \"Mastercard Asia/Pacific Pte Ltd\" and \"Shopee\" refers to Shopee Singapore Private Limited."
     ],
     "anchorId": "sg-img-219154"
   },
