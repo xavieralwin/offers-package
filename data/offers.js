@@ -18072,5 +18072,41 @@ window.OFFERS_DATA =
         ]
       }
     ]
+  },
+  {
+    "offerNumber": 459,
+    "merchantId": "848550",
+    "merchantName": "Oriental Remedies",
+    "validity": "01-Oct-26 To 31-Dec-26",
+    "validFrom": "2026-10-01",
+    "validTo": "2026-12-31",
+    "offerType": "Shopping",
+    "offerSubType": "Online Shopping",
+    "offerTagName": "NULL",
+    "offerName": "Exclusive Privileges",
+    "location": "Singapore",
+    "name": "Clarissa Mok",
+    "offerImage": "offer_merc_image_848550.jpg",
+    "offerDescriptions": [
+      "First-time Oriental Remedies Clinic Patients only",
+      "Consultation + Complimentary Acupuncture OR Cupping at S$38",
+      "Promo Code: Citi38Promo",
+      "Consultation + Complimentary Electro-Lymphatic Therapy (ELT) at S$58",
+      "Promo Code: Citi58Promo"
+    ],
+    "offerTermsAndConditions": [
+      "Offer period is from 1 October 2026 to 31 December 2026 (both days inclusive), unless otherwise stated.",
+      "Payment must be made with a Citi Credit Card or Citibank Debit Card.",
+      "Offer is not eligible for Purchasing Card / Citi Travel Lodge Card / Citi Travel Account.",
+      "Offer is valid for first-time Oriental Remedies Clinic Patients only.",
+      "Advance booking is required via WhatsApp (8087 0486) or Call (6971 1325).",
+      "This Offer is not refundable or exchangeable for cash or other reward items from Citibank.",
+      "Citibank’s decision on all matters relating to the Promotion will be determined in its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties.",
+      "Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be resolved directly with Oriental Remedies.",
+      "Citibank and Oriental Remedies reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+      "\"Citibank\" refers to Citibank Singapore Limited and “Oriental Remedies\" refers to Oriental Remedies Incorporated Pte Ltd."
+    ],
+    "anchorId": "sg-848550"
   }
 ]
