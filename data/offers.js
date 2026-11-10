@@ -18179,5 +18179,72 @@ window.OFFERS_DATA =
       "\"Citibank\" refers to Citibank Singapore Limited. The terms \"Four Seasons Hotel Singapore” refers to HPL Properties Pte Ltd dba Four Seasons Hotel Singapore."
     ],
     "anchorId": "sg-510793"
+  },
+  {
+    "offerNumber": 462,
+    "merchantId": "297085",
+    "merchantName": "Allora Ristorante & Bar, Crowne Plaza Changi Airport",
+    "validity": "01-Nov-26 To 15-Dec-26",
+    "validFrom": "2026-11-01",
+    "validTo": "2026-12-15",
+    "offerType": "Dining",
+    "offerSubType": "Hotel Dining",
+    "offerTagName": "NULL",
+    "offerName": "25% off Christmas Buffet",
+    "location": "Singapore",
+    "name": "May Lin Tan",
+    "offerImage": "offer_merc_image_297085.jpg",
+    "offerDescriptions": [
+      "25% off Christmas Buffet (Promo Code: CITIFESTIVE)",
+      "Book online: https://bit.ly/cpchristmas-buffet",
+      "Enquiries & Email reservations: allora.cpca@ihg.com"
+    ],
+    "offerTermsAndConditions": [
+      "Promotion is valid for reservations with full prepayment made from 1 November 2026 to 15 December 2026, both dates inclusive.",
+      "Payment must be made using a Citi Credit/ Citibank Debit Card to enjoy the promotion",
+      "Promo valid for dine-in on 24 December 2026 (Dinner Buffet) and 25 December 2026 (Brunch Buffet) only.",
+      "For enquiries and reservations, email: allora.cpca@ihg.com or book online: https://bit.ly/cpchristmas-buffet",
+      "Quote the Citi promo code when making reservation.",
+      "Not valid in conjunction with other offers, discount cards, in-house privileges and vouchers.",
+      "Citibank's and Crowne Plaza Changi Airport’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Crowne Plaza Changi Airport.",
+      "Citibank and Crowne Plaza Changi Airport reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The term \"Crowne Plaza Changi Airport” and “Allora Ristorante & Bar” refers to Crowne Plaza Changi Airport."
+    ],
+    "anchorId": "sg-297085"
+  },
+  {
+    "offerNumber": 463,
+    "merchantId": "370826",
+    "merchantName": "Crowne Plaza Changi Airport",
+    "validity": "01-Nov-26 To 24-Dec-26",
+    "validFrom": "2026-11-01",
+    "validTo": "2026-12-24",
+    "offerType": "Dining",
+    "offerSubType": "Hotel Dining",
+    "offerTagName": "NULL",
+    "offerName": "30% off Festive Takeaways",
+    "location": "Singapore",
+    "name": "May Lin Tan",
+    "offerImage": "offer_merc_image_370826.jpg",
+    "offerDescriptions": [
+      "30% off Festive Takeaways (Promo code: XMCITI30)",
+      "Order Website: https://bit.ly/cpchristmas-estore"
+    ],
+    "offerTermsAndConditions": [
+      "Promotion is valid from 1 November 2026 to 24 December 2026, both dates inclusive.",
+      "Payment must be made using a Citibank Credit / Citibank Debit Card to enjoy the promotion",
+      "Advanced orders of three (3) days prior to collection is required.",
+      "To order, visit e-store: https://bit.ly/cpchristmas-estore",
+      "To enjoy the offer, apply the Citi Promo Code before check out.",
+      "Cancellations are not allowed upon confirmation of order.",
+      "Collection of festive takeaways are from 16 November 2026 to 31 December 2026.",
+      "Not valid in conjunction with other offers, discount cards, in-house privileges and vouchers.",
+      "Citibank's and Crowne Plaza Changi Airport’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Crowne Plaza Changi Airport.",
+      "Citibank and Crowne Plaza Changi Airport reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The term \"Crowne Plaza Changi Airport” refers to Crowne Plaza Changi Airport."
+    ],
+    "anchorId": "sg-370826"
   }
 ]
