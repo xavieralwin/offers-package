@@ -437,6 +437,7 @@ main { display: block; }
 .offer-modal__section-title { margin: 0 0 9px; color: var(--color-primary); font-family: var(--ff-secondary); font-weight: 700; font-size: 18px; line-height: 1.3; }
 .offer-modal__description { margin: 0; color: #1B2636; font-size: 14px; line-height: 1.55; }
 .offer-modal__description-text { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+.offer-modal__description-terms-apply { margin-top: 10px; }
 .offer-modal__description-list { margin: 0; padding-left: 20px; list-style-type: disc; }
 .offer-modal__description-list li { margin: 0 0 7px; padding-left: 2px; white-space: pre-wrap; overflow-wrap: anywhere; }
 .offer-modal__description-list--numbered { list-style-type: decimal; }

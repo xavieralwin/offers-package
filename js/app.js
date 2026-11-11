@@ -707,7 +707,7 @@
   function addDescription(parent, offer) {
     const descriptions = Array.isArray(offer.offerDescriptions) ? offer.offerDescriptions.filter(function (item) {
       const text = String(item == null ? '' : item).trim();
-      return text !== '' && !isTermsApplyLine(text);
+      return text !== '';
     }) : [];
     const blocks = Array.isArray(offer.offerDescriptionBlocks) ? offer.offerDescriptionBlocks : [];
     const useNumberedBlocks = blocks.some(function (block) {
@@ -747,7 +747,12 @@
       if (!block || typeof block !== 'object') return;
       if (block.type === 'paragraph') {
         const text = String(block.text == null ? '' : block.text).trim();
-        if (text && !isTermsApplyLine(text)) addRichText(parent, 'p', 'offer-modal__description-text offer-modal__description-intro', text);
+        if (text) {
+          const cls = isTermsApplyLine(text)
+            ? 'offer-modal__description-text offer-modal__description-terms-apply'
+            : 'offer-modal__description-text offer-modal__description-intro';
+          addRichText(parent, 'p', cls, text);
+        }
         return;
       }
       if (block.type === 'heading') {
@@ -785,6 +790,11 @@
         addText(parent, 'h4', descriptionHeadingClass(text), text);
         return;
       }
+      if (isTermsApplyLine(text)) {
+        flush();
+        addRichText(parent, 'p', 'offer-modal__description-text offer-modal__description-terms-apply', text);
+        return;
+      }
       const numbered = /^\s*\d{1,2}[.)]\s+/.test(text);
       const itemText = text.replace(/^\s*\d{1,2}[.)]\s+/, '');
       const type = numbered ? 'numbered' : 'bullets';
@@ -796,7 +806,7 @@
   }
 
   function isTermsApplyLine(text) {
-    return /^terms and conditions apply\.?$/i.test(String(text || '').trim());
+    return /^[*•-]?\s*terms\s*(?:and|&)\s*conditions\s*apply\.?$/i.test(String(text || '').trim());
   }
 
   function isDescriptionHeading(text) {

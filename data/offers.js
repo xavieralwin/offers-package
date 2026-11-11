@@ -346,40 +346,6 @@ window.OFFERS_DATA =
     "anchorId": "sg-img-353744"
   },
   {
-    "offerNumber": 11,
-    "merchantId": "171852",
-    "merchantName": "Higher Ground",
-    "validity": "01-Jul-26 To 31-Dec-26",
-    "validFrom": "2026-07-01",
-    "validTo": "2026-12-31",
-    "offerType": "Dining",
-    "offerSubType": "Asian",
-    "offerTagName": "In-Store",
-    "offerName": "15% off à la carte menu only",
-    "location": "Singapore",
-    "name": "Dylan Xie",
-    "offerImage": "offer_merc_image_354801.jpg",
-    "offerDescriptions": [
-      "15% off à la carte menu only",
-      "Closed on Mondays and Sundays"
-    ],
-    "offerTermsAndConditions": [
-      "The Promotion period is from 1 July 2026 to 31 December 2026 (both dates inclusive).",
-      "Valid for dine-in only.",
-      "Not valid in conjunction with other discounts offers promotions privileges and vouchers.",
-      "Not applicable on beverages service charge and taxes.",
-      "Payment must with a Citibank Debit/Credit card to enjoy the promotion.",
-      "Not valid on eve of Public Holidays Public Holidays blackout dates and special occasions such as Valentine's Day, Easter Sunday, Mother's Day etc.",
-      "Citibank's and Poulose’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
-      "Citibank shall not be responsible for the quality merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss injury damage or harm suffered by or in connection with the products and/or services provided by third parties.",
-      "All disputes about quality or performance of the product and/or services shall be resolved directly with Poulose.",
-      "Citibank and Poulose reserve the right at their reasonable discretion to vary add to or delete the Promotion terms and/or terminate the Promotion.",
-      "\"Citibank\" refers to Citibank Singapore Limited.",
-      "The term “Poulose” refers to Poulose Associate Pte Ltd"
-    ],
-    "anchorId": "sg-img-354801"
-  },
-  {
     "offerNumber": 12,
     "merchantId": "8161",
     "merchantName": "Hua Ting Restaurant",
@@ -18273,5 +18239,80 @@ window.OFFERS_DATA =
       "\"Citibank\" refers to Citibank Singapore Limited and “JTB” refers to JTB Pte Ltd."
     ],
     "anchorId": "sg-img-804816"
+  },
+  {
+    "offerNumber": 465,
+    "merchantId": "663197",
+    "merchantName": "Jack’s Place and Eatzi Gourmet Steakhouse & Bistro",
+    "validity": "09-Nov-26 To 11-Dec-26",
+    "validFrom": "2026-11-09",
+    "validTo": "2026-12-11",
+    "offerType": "Dining",
+    "offerSubType": "Western",
+    "offerTagName": "NULL",
+    "offerName": "FREE Signature Lobster Bisque, with any order of Festive Feast or Bundles.",
+    "location": "Singapore",
+    "name": "Vincent Lim",
+    "offerImage": "offer_merc_image_663197.jpg",
+    "offerDescriptions": [
+      "FREE Signature Lobster Bisque, with any order of Festive Feast or Bundles.(2 frozen retail packs of 500g each, worth S$21.80)",
+      "* Offer is applicable at all Jack’s Place and Eatzi Gourmet Steakhouse & Bistro outlets or via hotline 6858 0111. Valid while stocks last.",
+      "* Orders must be placed 3 working days in advance of collection.",
+      "Terms and Conditions apply."
+    ],
+    "offerTermsAndConditions": [
+      "The Promotion period is from 9 Nov – 11 December 2026 (both dates inclusive).",
+      "Payment must be charged to a Citi Credit Card or Citibank Debit Card.",
+      "Offer is applicable at all Jack’s Place and Eatzi Gourmet Steakhouse & Bistro outlets or via hotline 6858 0111.",
+      "FREE Signature Lobster Bisque (2 frozen retail packs of 500g each) is only available for collection together with festive orders. Valid while stocks last.",
+      "Orders must be placed 3 working days in advance of collection. All changes to orders must be made at least 48 hours prior to collection",
+      "Collection of Festive orders is available at Jack’s Place Ang Mo Kio, Bras Basah Complex, Toa Payoh, SAFRA Jurong and Defu Lane office between 16 Nov 2026 – 3 Jan 2027.",
+      "Delivery surcharges apply.",
+      "For full outlet listing, please visit https://www.jppepperdine.com/restaurant-locator/",
+      "Not valid in conjunction with other promotions, discounts, and JP Pepperdine rewards program.",
+      "All orders are subject to confirmation & availability of stock. All confirmed orders are non-refundable, returnable or exchangeable.",
+      "Citibank's and JP Pepperdine’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with JP Pepperdine.",
+      "Citibank and JP Pepperdine reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The terms \"JP Pepperdine”, “Jack’s Place”, and “Eatzi Gourmet Steakhouse & Bistro” refer to JP Pepperdine Group Pte Ltd."
+    ],
+    "anchorId": "sg-img-663197"
+  },
+  {
+    "offerNumber": 466,
+    "merchantId": "890229",
+    "merchantName": "Tim Ho Wan",
+    "validity": "01-Dec-26 To 31-May-27",
+    "validFrom": "2026-12-01",
+    "validTo": "2027-05-31",
+    "offerType": "Dining",
+    "offerSubType": "Chinese",
+    "offerTagName": "NULL",
+    "offerName": "Receive a S$5 return voucher with any spend, redeemable on the next visit with a min. spend of S$60",
+    "location": "Singapore",
+    "name": "Vincent Lim",
+    "offerImage": "offer_merc_image_890229.jpg",
+    "offerDescriptions": [
+      "Offer Details:",
+      "Receive a S$5 return voucher with any spend, redeemable on the next visit with a min. spend of S$60",
+      "Terms and Conditions apply."
+    ],
+    "offerTermsAndConditions": [
+      "The Promotion period is from 1 Dec 2026 to 31 May 2027 (both dates inclusive).",
+      "Payment must be made with a Citi Credit Card or Citibank Debit Card to enjoy the promotion.",
+      "Under the Promotion, a Citi Cardmember will receive a S$5 Tim Ho Wan return voucher (“Voucher”) with any spend at any Tim Ho Wan Restaurants, in a single receipt, charged to a Citi Card.",
+      "Voucher is valid for use with a minimum spend of S$60 on total bill charged to a Citi Card on the return visit. Minimum spend requirement and discount given exclude service charge and GST.",
+      "Promotion is valid at all Tim Ho Wan outlets in Singapore. Visit https://www.timhowan.com/our-stores/#location-singapore for full outlet details.",
+      "Voucher is valid for both dine-in and takeaway orders.",
+      "Voucher is not valid with other discounts, promotions, vouchers or membership privileges.",
+      "Voucher may only be used on next visit. Original Voucher must be presented when ordering. Duplicates or photocopies are not valid.",
+      "Redemption of voucher is not valid on blackout dates including, but not limited to, Public Holidays, Public Holidays in-lieu, eve of CNY, 15 days of CNY, Mother’s Day and Father’s Day. For more information, please contact the restaurant.",
+      "Limited to one redemption per table per bill. Splitting of bills is not allowed.",
+      "Citibank's and Tim Ho Wan’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Tim Ho Wan.",
+      "Citibank and Tim Ho Wan reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The term \"Tim Ho Wan” refers to Dim Sum Pte. Ltd."
+    ],
+    "anchorId": "sg-img-890229"
   }
 ]
