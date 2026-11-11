@@ -18245,5 +18245,33 @@ window.OFFERS_DATA =
       "\"Citibank\" refers to Citibank Singapore Limited. The term \"Crowne Plaza Changi Airport” refers to Crowne Plaza Changi Airport."
     ],
     "anchorId": "sg-img-370826"
+  },
+  {
+    "offerNumber": 464,
+    "merchantId": "804816",
+    "merchantName": "JTB",
+    "validity": "28-Nov-26 To 29-Nov-26",
+    "validFrom": "2026-11-28",
+    "validTo": "2026-11-29",
+    "offerType": "Travel",
+    "offerSubType": "Tours & Experiences",
+    "offerTagName": "NULL",
+    "offerName": "JTB SJ60 Musubi Fair",
+    "location": "Singapore",
+    "name": "Cheryl Tham",
+    "offerImage": "offer_merc_image_804816.jpg",
+    "offerDescriptions": [
+      "S$100 off any JTB Japan group tour package at SJ60 Fair"
+    ],
+    "offerTermsAndConditions": [
+      "Payment must be charged using Citi Credit Card or Citibank Debit Card.",
+      "Promotion is valid from 28 to 29 November 2026, at SJ60 Fair only, located at Marina Bay Sands Exhibition Hall D/E",
+      "Promotion is valid in conjunction with other promotions.",
+      "Citibank's and JTB’s decision on all matters relating to the promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the Promotion provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with JTB.",
+      "Citibank and JTB reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time and without having to give prior notice.",
+      "\"Citibank\" refers to Citibank Singapore Limited and “JTB” refers to JTB Pte Ltd."
+    ],
+    "anchorId": "sg-img-804816"
   }
 ]
