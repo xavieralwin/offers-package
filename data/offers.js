@@ -18314,5 +18314,37 @@ window.OFFERS_DATA =
       "\"Citibank\" refers to Citibank Singapore Limited. The term \"Tim Ho Wan” refers to Dim Sum Pte. Ltd."
     ],
     "anchorId": "sg-img-890229"
+  },
+  {
+    "offerNumber": 467,
+    "merchantId": "917577",
+    "merchantName": "iNCREDi BOWL",
+    "validity": "01-Oct-26 To 30-Jun-27",
+    "validFrom": "2026-10-01",
+    "validTo": "2027-06-30",
+    "offerType": "Dining",
+    "offerSubType": "Asian",
+    "offerTagName": "NULL",
+    "offerName": "15% off à la carte food menu only",
+    "location": "Singapore",
+    "name": "Vincent Lim",
+    "offerImage": "offer_merc_image_917577.jpg",
+    "offerDescriptions": [
+      "15% off à la carte food menu only",
+      "Terms and Conditions apply."
+    ],
+    "offerTermsAndConditions": [
+      "The Promotion period is from 1 Oct 2026 to 30 June 2027 (both dates inclusive).",
+      "Valid for dine-in only.",
+      "Not valid in conjunction with other discounts, offers, promotions, privileges and vouchers.",
+      "Not applicable on beverages, service charge and taxes.",
+      "Payment must with a Citibank Debit/Credit card to enjoy the promotion.",
+      "Not valid on eve of Public Holidays, Public Holidays, blackout dates and special occasions such as Valentine's Day, Easter Sunday, Mother's Day etc.",
+      "Citibank's and Poulose’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+      "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Poulose.",
+      "Citibank and Poulose reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+      "\"Citibank\" refers to Citibank Singapore Limited. The term “Poulose” refers to Poulose Associate Pte Ltd"
+    ],
+    "anchorId": "sg-img-917577"
   }
 ]
