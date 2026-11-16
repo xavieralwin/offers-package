@@ -18346,5 +18346,39 @@ window.OFFERS_DATA =
         "\"Citibank\" refers to Citibank Singapore Limited. The term “Poulose” refers to Poulose Associate Pte Ltd"
       ],
       "anchorId": "sg-img-917577"
+    },
+    {
+      "offerNumber": 468,
+      "merchantId": "433690",
+      "merchantName": "COLLIN’S®",
+      "validity": "01-Jan-27 To 31-Mar-27",
+      "validFrom": "2027-01-01",
+      "validTo": "2027-03-31",
+      "offerType": "Dining",
+      "offerSubType": "Western",
+      "offerTagName": "NULL",
+      "offerName": "Complimentary Tempura Squid Tentacles with min. sub-total spend of S$60",
+      "location": "Singapore",
+      "name": "Vincent Lim",
+      "offerImage": "offer_merc_image_433690.jpg",
+      "offerDescriptions": [
+        "Complimentary Tempura Squid Tentacles (worth up to S$11) with min. sub-total spend of S$60",
+        "Terms and Conditions apply."
+      ],
+      "offerTermsAndConditions": [
+        "Promotion period is from 1 Jan 2027 to 31 Mar 2027 (both dates inclusive)",
+        "Payment must be made with a Citi Credit Card or Citibank Debit Card",
+        "Promotion is valid for dine-in and takeaway.",
+        "Not valid on eves of/and Public Holidays.",
+        "Gross bills will be subjected to 10% service charge and 9% GST.",
+        "Valid at all COLLIN’S® Restaurants. Visit www.collins.sg/collins-restaurants for full restaurant listing and addresses.",
+        "Not valid with any other discounts, promotions, privileges, coupons or vouchers or any other special events at the discretion of COLLIN’S® Restaurants.",
+        "Redemptions valid while stocks last.",
+        "Citibank's and COLLIN’S® Restaurants’ decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be resolved directly with COLLIN’S® Restaurants.",
+        "Citibank and COLLIN’S® Restaurants reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+        "\"Citibank\" refers to Citibank Singapore Limited and “COLLIN’S® Restaurants” refers to IRON CHEF F&B PTE LTD."
+      ],
+      "anchorId": "sg-img-433690"
     }
   ]
