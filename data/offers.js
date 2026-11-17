@@ -18380,5 +18380,42 @@ window.OFFERS_DATA =
         "\"Citibank\" refers to Citibank Singapore Limited and “COLLIN’S® Restaurants” refers to IRON CHEF F&B PTE LTD."
       ],
       "anchorId": "sg-img-433690"
+    },
+    {
+      "offerNumber": 469,
+      "merchantId": "379811",
+      "merchantName": "Steak 99",
+      "validity": "01-Jan-27 To 31-Dec-27",
+      "validFrom": "2027-01-01",
+      "validTo": "2027-12-31",
+      "offerType": "Dining",
+      "offerSubType": "Japanese",
+      "offerTagName": "NULL",
+      "offerName": "Receive S$5 return voucher with any spend",
+      "location": "Singapore",
+      "name": "Vincent Lim",
+      "offerImage": "offer_merc_image_379811.jpg",
+      "offerDescriptions": [
+        "Receive S$5 return voucher with any spend (redeem with min. S$50 spend)*",
+        "*Valid at all participating Japan Foods Holding restaurant outlets in Singapore except Takashimaya outlets",
+        "Terms & Condition Apply"
+      ],
+      "offerTermsAndConditions": [
+        "The Promotion period is from 1 January 2027 to 31 December 2027 (both dates inclusive).",
+        "Payment must be charged to a Citi Credit Card or Citibank Debit Card.",
+        "Under the Promotion, a Citi Debit/Credit Cardmember will receive a S$5 Japan Foods Holding return voucher (“Voucher”) with any spend on any participating Japan Foods Holding restaurant outlets.",
+        "Voucher may be used only on the next visit and with a minimum spend of S$50 charged to a Citibank Debit/Credit Card.",
+        "Minimum spend requirement excludes service charge and GST.",
+        "Voucher is valid 3 months from date of issue. Strictly no extension is allowed.",
+        "Promotion is valid at all participating Japan Foods Holding restaurant outlets in Singapore except Takashimaya outlets. Visit jfh.com.sg for full outlet details.",
+        "Original voucher must be presented before payment is made.",
+        "Maximum 1 voucher may be used per table, per bill, per visit. No splitting of bills and tables allowed.",
+        "Voucher not applicable for use with other dining / staff / gift vouchers.",
+        "Citibank's and Japan Foods Holding’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Japan Foods Holding.",
+        "Citibank and Japan Foods Holding reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+        "\"Citibank\" refers to Citibank Singapore Limited. The term \"Japan Foods Holding” refers to Japan Foods Holding Ltd."
+      ],
+      "anchorId": "sg-img-379811"
     }
   ]

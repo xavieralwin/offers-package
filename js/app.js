@@ -47,7 +47,7 @@
   const PAGE_SIZE = 15;
   const INITIAL_LOAD_COUNT = 9;
   const LOAD_MORE_COUNT = 6;
-  const IMAGE_BASE = 'https://www.citiworldprivileges.com/data/images/offer_images/272x195/';
+  const IMAGE_BASE = 'data/images/offer_images/272x195/';
 
   let currentCountry = 'SG';
   let currentLanguage = 'EN';
@@ -806,7 +806,7 @@
   }
 
   function isTermsApplyLine(text) {
-    return /^[*•-]?\s*terms\s*(?:and|&)\s*conditions\s*apply\.?$/i.test(String(text || '').trim());
+    return /^[*•-]?\s*terms\s*(?:and|&)\s*conditions?\s*apply\.?$/i.test(String(text || '').trim());
   }
 
   function isDescriptionHeading(text) {
