@@ -806,7 +806,7 @@
   }
 
   function isTermsApplyLine(text) {
-    return /^[*•-]?\s*terms\s*(?:and|&)\s*conditions\s*apply\.?$/i.test(String(text || '').trim());
+    return /^[*•-]?\s*terms\s*(?:and|&)\s*conditions?\s*apply\.?$/i.test(String(text || '').trim());
   }
 
   function isDescriptionHeading(text) {

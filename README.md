@@ -26,10 +26,12 @@ A standalone, static Citi World Privileges offers page with Singapore and Hong K
 - `data/offers-hk-en.js` — all 428 reconstructed Hong Kong English offer records (`window.HK_OFFERS_EN`).
 - `data/offers-hk-cn.js` — 427 Hong Kong Traditional Chinese offer records (`window.HK_OFFERS_CN`).
 - `assets/` — images from the maintenance-page ZIP, Citi logo, footer/store badges, local SG/HK flag SVGs, and local category SVG icons for All Offers, Dining, Travel, Shopping, Fuels, Weddings, Hotels and Lifestyle.
+- `merchant-id-register.xlsx` — Excel register tracking pre-existing and newly generated random non-overlapping 6-digit `merchantId`s, anchor IDs, banner filenames, and direct offer URLs.
+- `images.txt` — list of remote image URLs (`https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_<merchantId>.<ext>`) for newly added offers.
 
 ## Data fields
 
-Each object in `window.OFFERS_DATA` contains: `offerNumber`, `merchantId`, `merchantName`, `validity`, `validFrom`, `validTo`, `offerType`, `offerSubType`, `offerTagName`, `offerName`, `location`, `name`, `offerImage`, `offerDescriptions`, and `offerTermsAndConditions`.
+Each object in `window.OFFERS_DATA` contains: `offerNumber`, `merchantId`, `merchantName`, `validity`, `validFrom`, `validTo`, `offerType`, `offerSubType`, `offerTagName`, `offerName`, `location`, `name`, `offerImage`, `offerDescriptions`, `offerTermsAndConditions`, and `anchorId`.
 
 `validity` retains the source text, while `validFrom` and `validTo` are normalized to `YYYY-MM-DD` for reliable date display and expiry calculation. Descriptions and T&Cs are arrays. Optional `offerDescriptionBlocks` structures render explicitly numbered benefits as semantic ordered lists. Text is inserted through DOM `textContent`, not interpreted as HTML.
 
@@ -41,11 +43,105 @@ Each object in `window.OFFERS_DATA` contains: `offerNumber`, `merchantId`, `merc
 4. Add or remove individual description and T&C paragraphs inside `offerDescriptions` and `offerTermsAndConditions` arrays. Use normal JavaScript string quoting; do not paste HTML tags expecting them to render.
 5. Save the file and reopen or refresh `index.html`.
 
-## Add an offer or a new Offer Type
+## Add a new offer (or a new Offer Type)
 
-- Copy an existing offer object in `data/offers.js`, paste it as a new array item, and update every field. Do not reuse an `offerNumber`; the number identifies the card's DOM elements.
-- Set `offerType` to the exact category string required. The horizontal filter strip is generated dynamically from distinct `offerType` values. No code change is needed to add a category; the new category will appear as a filter button and receive a URL hash automatically. The current package retains the exact source Offer Type label `Weddings` rather than renaming it to `Wedding`; change the data value only if the business confirms that normalization.
-- Add real offer-image files to `assets/` only if supplied. Offer images are loaded from `https://www.citiworldprivileges.com/data/images/offer_images/272x195/` followed directly by the source `offerImage` filename, with no whitespace added. The page uses lazy loading and shows a small fallback message if an image filename is missing or the remote image cannot be loaded. Because these images are hosted remotely, an internet connection is required to display them; all other page functionality works from `file://` without a server.
+Follow these steps whenever adding a new offer from a business submission:
+
+### 1. Select the target dataset
+- **Singapore (EN)** offers: edit `data/offers.js` (`window.OFFERS_DATA`) only. Do **not** modify `data/offers-hk-en.js` or `data/offers-hk-cn.js` for Singapore-only offers (including when CN columns are marked `"Hong Kong only"`).
+- **Hong Kong (EN / CN)** offers: edit `data/offers-hk-en.js` (`window.HK_OFFERS_EN`) and/or `data/offers-hk-cn.js` (`window.HK_OFFERS_CN`).
+
+### 2. Generate IDs, anchor ID, and image filename
+- **`offerNumber`**: Assign the next sequential integer after the highest existing `offerNumber` in the target dataset. Never reuse or renumber existing `offerNumber`s (even if older offers were removed).
+- **`merchantId`**: When `Merchant ID` is blank in the business input — or when an existing merchant is getting a new campaign that needs its own image/anchor — generate a random **6-digit** numeric string (`100000`–`999999`) that does **not** overlap with any existing `merchantId` across:
+  - `data/offers.js`
+  - `data/offers-hk-en.js`
+  - `data/offers-hk-cn.js`
+  - Both sheets of `merchant-id-register.xlsx` (`Generated Merchant IDs` and `Pre-existing Merchant IDs`)
+- **`anchorId`** (keep short): Use `<market>-img-<merchantId>`:
+  - Singapore: `sg-img-<merchantId>` (e.g., `sg-img-206808`)
+  - Hong Kong: `hk-img-<merchantId>`
+  - Direct URL: `https://www.citiworldprivileges.com/?country=SG&language=EN&offer=sg-img-<merchantId>#all-offers`
+- **`offerImage`**: Name the banner image using the merchant ID: `offer_merc_image_<merchantId>.jpg` (or `.png` if supplied as PNG).
+  - Place supplied local banner image files in `data/images/offer_images/272x195/offer_merc_image_<merchantId>.jpg`.
+  - Production loads offer images from `https://www.citiworldprivileges.com/data/images/offer_images/272x195/` followed directly by `offerImage` with no whitespace.
+
+### 3. Append the offer record to `data/offers.js`
+Copy the template below as a new object at the end of `window.OFFERS_DATA`:
+
+```js
+    {
+      "offerNumber": 477,
+      "merchantId": "123456",
+      "merchantName": "Merchant Name",
+      "validity": "16-Nov-26 To 31-Dec-26",
+      "validFrom": "2026-11-16",
+      "validTo": "2026-12-31",
+      "offerType": "Dining",
+      "offerSubType": "Japanese",
+      "offerTagName": "NULL",
+      "offerName": "Offer headline",
+      "location": "Singapore",
+      "name": "Requester Name",
+      "offerImage": "offer_merc_image_123456.jpg",
+      "offerDescriptions": [
+        "Primary offer description line",
+        "Promo Code: EXAMPLE",
+        "Terms and Conditions apply."
+      ],
+      "offerTermsAndConditions": [
+        "Promotion period is from 16 November 2026 to 31 December 2026 (both dates inclusive).",
+        "Payment must be charged using Citi Credit / Citibank Debit Card."
+      ],
+      "anchorId": "sg-img-123456"
+    }
+```
+
+Field guidelines:
+- **`validity` / `validFrom` / `validTo`**: Format `validity` as `DD-Mon-YY To DD-Mon-YY` and `validFrom` / `validTo` as ISO `YYYY-MM-DD`. If the business form leaves the date fields blank, extract the exact start and end dates from the Terms & Conditions.
+- **`offerType` / `offerSubType`**: Use the canonical Title Case labels in the dataset (e.g., `Dining` / `Japanese`, `Western`, `Chinese`, `Asian`, `Hotel Dining`; `Shopping` / `Lifestyle & Gift`, `Online Shopping`; `Travel` / `Tours & Experiences`). The horizontal filter strip is generated dynamically from distinct `offerType` values, so adding a brand-new `offerType` requires no code change. Retain `Weddings` as-is unless business confirms renaming.
+- **`offerTagName`**: Use `"NULL"` when no tag is specified.
+- **`merchantName` & copy**: Retain exact business spelling, capitalization, symbols (`®`, `’`, `S$`), promo codes, and URLs.
+- **`offerDescriptions`**: Split into clean array lines. Trailing `"Terms and Conditions apply."` / `"Terms & Condition Apply"` lines are preserved and rendered as a standalone paragraph in the modal.
+- **`offerTermsAndConditions`**: One clause per array item, stripping leading bullet characters (`•`, `-`, `*`) because the UI renders native bullets. Escape internal double quotes (`\"`) and do not insert raw HTML tags.
+
+### 4. Update `merchant-id-register.xlsx`
+Append a new row to the **`Generated Merchant IDs`** sheet with all 17 columns in order:
+
+| Column | Example Value |
+| --- | --- |
+| `Merchant ID` | `123456` |
+| `ID Assignment` | `Random (Non-overlapping)` |
+| `Offer Number` | `477` |
+| `Country` | `Singapore` |
+| `Merchant Name` | `Merchant Name` |
+| `Offer Name` | `Offer headline` |
+| `Category` | `Dining` |
+| `Category Sub` | `Japanese` |
+| `Valid From` | `2026-11-16` |
+| `Valid To` | `2026-12-31` |
+| `Validity` | `16-Nov-26 To 31-Dec-26` |
+| `Requested By` | `Requester Name` |
+| `Offer Banner Image` | `offer_merc_image_123456.jpg` |
+| `Anchor ID` | `sg-img-123456` |
+| `Direct URL` | `https://www.citiworldprivileges.com/?country=SG&language=EN&offer=sg-img-123456#all-offers` |
+| `Added Date` | `2026-11-18` |
+| `Notes` | `Singapore-only offer. Unique merchant ID generated for Merchant Name.` |
+
+> **PowerShell note:** When updating `merchant-id-register.xlsx` via Python on Windows PowerShell, use a `.py` script file rather than inline double-quoted `-c "..."` strings so currency text like `S$5` or `S$60` is not expanded as empty PowerShell variables.
+
+### 5. Update `images.txt`
+Append the offer's full remote banner URL on a new line at the bottom of `images.txt`:
+
+```text
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_<merchantId>.jpg
+```
+
+### 6. Verify before committing
+1. Run `node --check data/offers.js` to confirm valid JavaScript syntax.
+2. Confirm the new `offerNumber`, `merchantId`, and `anchorId` are unique and present in `window.OFFERS_DATA`.
+3. Verify the appended row in `merchant-id-register.xlsx` (including any `S$` amounts) and the new URL in `images.txt`.
+4. Open `index.html` (or test the direct URL `?country=SG&language=EN&offer=sg-img-<merchantId>#all-offers`) to verify the card, banner image, modal description, `"Terms and Conditions apply."` line, and Terms & Conditions render cleanly.
 
 ## Typography and offer-title styling
 
