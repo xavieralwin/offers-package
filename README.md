@@ -296,3 +296,15 @@ There are no third-party JavaScript/CSS libraries, CDNs or API calls in this pac
 
 - Offer images and hero banners continue to use the existing public CWP image URL paths under `https://www.citiworldprivileges.com/data/images/`.
 - For the new VM deployment, infrastructure must expose the mounted CWP image storage through the same public URL paths (or update the image base paths in `js/app.js`, `js/hero-carousel.js` and the CSS after the final web path is confirmed). The package does not assume a filesystem mount path.
+
+
+## Offer start date and staging vs. live environment logic
+
+- **Live environment (`https://www.citiworldprivileges.com`)**:
+  - Offers whose start date (`validFrom`) is in the future (`validFrom > today`) are hidden from the public grid, category filter tabs, search results, and pagination.
+  - When the calendar reaches the offer's `validFrom` date at local midnight, the internal refresh timer (`scheduleExpiryRefresh`) automatically publishes the offer on the live site without requiring a server redeployment or browser refresh.
+  - Direct deep links (`?offer=<anchorId>`) can still preview unstarted offers in the modal dialog with an **Upcoming** (`即將推出`) status badge.
+- **Staging environment (`https://stagingv3.citiworldprivileges.com` / UAT / dev / localhost)**:
+  - Unstarted offers remain visible in the public grid and category filters so testers and QA can verify upcoming campaigns in advance.
+  - Unstarted offers display an **Upcoming** (`即將推出`) status badge styled in Citi blue on both the card and in the modal dialog.
+  - **Environment overrides**: Adding `?env=live` forces Live-mode behavior on Staging for verification; adding `?env=staging` or `?preview=true` enables preview mode on any domain.

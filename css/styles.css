@@ -339,6 +339,7 @@ main { display: block; }
 .status-badge { display: inline-block; border-radius: 999px; padding: 4px 9px; font-weight: 700; font-size: 11px; line-height: 1.25; white-space: nowrap; }
 .status-badge--expired { color: var(--danger); background: var(--danger-bg); }
 .status-badge--soon { color: var(--warning); background: var(--warning-bg); }
+.status-badge--upcoming { color: var(--citi-blue); background: #E6F3FB; }
 .offer-card__chips { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; padding-top: 2px; }
 .offer-card__spacer { flex: 1 1 auto; min-height: 18px; }
 .offer-chip { display: inline-flex; align-items: center; max-width: 100%; padding: 6px 9px; border-radius: 4px; background: #EEF3F6; color: #202B43; font-size: 12px; line-height: 1.2; overflow-wrap: anywhere; }

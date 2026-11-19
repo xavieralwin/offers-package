@@ -93,6 +93,7 @@
       validityFallback: 'Offer end date not provided',
       expired: 'Expired',
       endingSoon: 'Ending soon',
+      upcoming: 'Upcoming',
       closeOffer: 'Close offer details',
       showMore: 'Show More +',
       showLess: 'Show Less −',
@@ -138,6 +139,7 @@
       validityFallback: '未有提供優惠到期日期',
       expired: '已過期',
       endingSoon: '即將到期',
+      upcoming: '即將推出',
       closeOffer: '關閉優惠詳情',
       showMore: '顯示更多 +',
       showLess: '顯示較少 −',
@@ -468,7 +470,7 @@
   function buildFilters() {
     const uniqueTypes = [];
     const seenTypes = new Set();
-    offers.filter(function (offer) { return !isOfferExpired(offer); }).forEach(function (offer) {
+    offers.filter(isOfferVisibleInListing).forEach(function (offer) {
       const value = String(offer.offerType == null ? '' : offer.offerType).trim();
       if (value && !seenTypes.has(value)) {
         seenTypes.add(value);
@@ -574,12 +576,61 @@
     return date;
   }
 
+  function isStagingEnvironment() {
+    try {
+      const search = window.location.search || '';
+      const hash = window.location.hash || '';
+
+      const isLiveQuery = /[?&]env=(?:live|prod)\b/i.test(search) || /[?&]env=(?:live|prod)\b/i.test(hash);
+      const isStagingQuery = /[?&](?:env=staging|preview=true)\b/i.test(search) || /[?&](?:env=staging|preview=true)\b/i.test(hash);
+
+      if (isStagingQuery) return true;
+      if (isLiveQuery) return false;
+
+      const hostname = String(window.location.hostname || '').toLowerCase();
+      if (!hostname) return true;
+
+      return (
+        hostname === 'stagingv3.citiworldprivileges.com' ||
+        hostname.includes('staging') ||
+        hostname.includes('uat') ||
+        hostname.includes('dev') ||
+        hostname.includes('test') ||
+        hostname === 'localhost' ||
+        hostname === '127.0.0.1' ||
+        hostname.endsWith('.local') ||
+        hostname.endsWith('.internal') ||
+        hostname.endsWith('.github.io')
+      );
+    } catch (e) {
+      return false;
+    }
+  }
+
   function isOfferExpired(offer) {
     const end = parseIsoDate(offer && offer.validTo);
     if (!end) return false; // Unknown/invalid expiry is retained until the source is corrected.
     const today = new Date();
     today.setHours(0, 0, 0, 0);
     return end.getTime() < today.getTime();
+  }
+
+  function isOfferStarted(offer) {
+    const start = parseIsoDate(offer && offer.validFrom);
+    if (!start) return true; // Unknown/missing start date is treated as started.
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    return start.getTime() <= today.getTime();
+  }
+
+  function isOfferVisibleInListing(offer) {
+    if (isOfferExpired(offer)) return false;
+    // On Live (production): hide unstarted offers until their start date arrives.
+    // On Staging (stagingv3 / test / dev / local): display unstarted offers with the Upcoming status badge.
+    if (!isStagingEnvironment() && !isOfferStarted(offer)) {
+      return false;
+    }
+    return true;
   }
 
   function formatDate(value) {
@@ -606,6 +657,7 @@
     today.setHours(0, 0, 0, 0);
     const difference = Math.round((end.getTime() - today.getTime()) / 86400000);
     if (difference < 0) return { label: ui().expired, className: 'status-badge--expired' };
+    if (start && start > today) return { label: ui().upcoming, className: 'status-badge--upcoming' };
     if (start && start <= today && difference <= 30) return { label: ui().endingSoon, className: 'status-badge--soon' };
     return null;
   }
@@ -1186,7 +1238,7 @@
 
   function renderOffers() {
     const query = searchQuery.trim().toLocaleLowerCase();
-    const availableOffers = offers.filter(function (offer) { return !isOfferExpired(offer); });
+    const availableOffers = offers.filter(isOfferVisibleInListing);
     const selectedOffers = availableOffers.filter(function (offer) {
       return activeType === '__all__' || String(offer.offerType == null ? '' : offer.offerType).trim() === activeType;
     });
