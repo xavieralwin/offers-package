@@ -18849,12 +18849,61 @@ window.HK_OFFERS_EN =
     "offerType": "Travel",
     "offerSubType": "Airlines",
     "offerTagName": "NULL",
-    "offerName": "Greater Bay Airlines",
+    "offerName": "15% off selected round-trip flights",
     "location": "Hong Kong",
     "name": "Winnie Yung",
     "offerImage": "offer_merc_image_750831.jpg",
     "offerDescriptions": [
-      "15% off selected round-trip flights"
+      "Enjoy 15% off round-trip flights from Hong Kong to selected destinations:",
+      "Selected destinations include: Zhoushan / Male (Maldives) / Taipei / Bangkok / Manila / Surabaya / Tokyo / Osaka / Sapporo / Fukuoka / Sendai / Okinawa",
+      "► How to enjoy the offer:",
+      "1. Click “Learn More” to visit GBA official website / open GBA App",
+      "2. Enter your flight details and click “Find Flight”",
+      "3. Choose preferred flights & fill in info per instructions",
+      "4. Upon filling in passenger info, click “Add coupon”",
+      "5. Enter Coupon Code【 HBCT2601112 】for each passenger",
+      "6. Complete booking & pay with Eligible Card",
+      "► Remarks:",
+      "- Travel Period: Nov 20, 2026 – Jun 30, 2027",
+      "- Blackout Period: Dec 18, 2026 – Jan 1, 2027 ; Jan 30 – Feb 9, Mar 20 –29 and Apr 30– May 2, 2027",
+      "- Applicable only to round-trip booking originating from Hong Kong"
+    ],
+    "offerDescriptionBlocks": [
+      {
+        "type": "paragraph",
+        "text": "Enjoy 15% off round-trip flights from Hong Kong to selected destinations:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selected destinations include: Zhoushan / Male (Maldives) / Taipei / Bangkok / Manila / Surabaya / Tokyo / Osaka / Sapporo / Fukuoka / Sendai / Okinawa"
+      },
+      {
+        "type": "heading",
+        "text": "► How to enjoy the offer:"
+      },
+      {
+        "type": "numbered",
+        "items": [
+          "Click “Learn More” to visit GBA official website / open GBA App",
+          "Enter your flight details and click “Find Flight”",
+          "Choose preferred flights & fill in info per instructions",
+          "Upon filling in passenger info, click “Add coupon”",
+          "Enter Coupon Code【 HBCT2601112 】for each passenger",
+          "Complete booking & pay with Eligible Card"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "► Remarks:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Travel Period: Nov 20, 2026 – Jun 30, 2027",
+          "Blackout Period: Dec 18, 2026 – Jan 1, 2027 ; Jan 30 – Feb 9, Mar 20 –29 and Apr 30– May 2, 2027",
+          "Applicable only to round-trip booking originating from Hong Kong"
+        ]
+      }
     ],
     "offerTermsAndConditions": [
       "“15% off on flight tickets at Greater Bay Airlines” (“The Offer”) Terms and Conditions:",
