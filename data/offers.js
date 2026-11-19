@@ -18606,7 +18606,7 @@ window.OFFERS_DATA =
     {
       "offerNumber": 475,
       "merchantId": "798991",
-      "merchantName": "Fareastflora.com",
+      "merchantName": "FarEastFlora.com",
       "validity": "16-Nov-26 To 31-Dec-26",
       "validFrom": "2026-11-16",
       "validTo": "2026-12-31",
