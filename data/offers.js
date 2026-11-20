@@ -18495,7 +18495,7 @@ window.OFFERS_DATA =
     {
       "offerNumber": 472,
       "merchantId": "995791",
-      "merchantName": "Mentzo Butao",
+      "merchantName": "Menzo Butao",
       "validity": "01-Jan-27 To 31-Dec-27",
       "validFrom": "2027-01-01",
       "validTo": "2027-12-31",
@@ -18859,5 +18859,124 @@ window.OFFERS_DATA =
         "\"Citibank\" refers to Citibank Singapore Limited. The term \"Japan Foods Holding” refers to Japan Foods Holding Ltd."
       ],
       "anchorId": "sg-img-703539"
+    },
+    {
+      "offerNumber": 482,
+      "merchantId": "383233",
+      "merchantName": "Klook",
+      "validity": "01-Dec-26 To 31-Dec-26",
+      "validFrom": "2026-12-01",
+      "validTo": "2026-12-31",
+      "offerType": "Travel",
+      "offerSubType": "Tours & Experiences",
+      "offerTagName": "NULL",
+      "offerName": "Mega 12.12 Sale",
+      "location": "Singapore",
+      "name": "Dylan Xie",
+      "offerImage": "offer_merc_image_383233.jpg",
+      "offerDescriptions": [
+        "Mega 12.12 Sale:",
+        "S$60 off min. spend S$500",
+        "S$120 off min. spend S$1,000",
+        "Valid on 11 and 12 December only",
+        "Dec Weekly Drop:",
+        "S$40 off min.spend S$400",
+        "Valid from 1 to 31 December"
+      ],
+      "offerDescriptionBlocks": [
+        {
+          "type": "heading",
+          "text": "Mega 12.12 Sale:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "S$60 off min. spend S$500",
+            "S$120 off min. spend S$1,000",
+            "Valid on 11 and 12 December only"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Dec Weekly Drop:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "S$40 off min.spend S$400",
+            "Valid from 1 to 31 December"
+          ]
+        }
+      ],
+      "offerTermsAndConditions": [
+        "Promotion period is valid from 1 December to 31 December 2026.",
+        "Payment must be charged using Citi Mastercard Credit / Debit Card.",
+        "Offer is applicable to sitewide bookings including Tours and Activities Attractions Hotels Transport and other items under Explore Klook.",
+        "This promotion does not apply to Stay+ bundles Pay at Pickup for Car rentals Travel Insurance and products in the Non-Applicable Activity List.",
+        "For more information on local and internal cruises airport taxes surcharge and gratuities kindly reach out to the respective cruise line.",
+        "Each promotion code is valid for a one-time use per user account only.",
+        "Each promotion code is valid for limited checkouts only.",
+        "Discount will be applied on the final price and displayed on the payment page if promotion code is successfully applied.",
+        "No discount will be given if promotion code fails to apply.",
+        "This promotion is valid only for Singapore users with a Singapore phone number only.",
+        "This promotion is valid only for bookings made via Klook’s website and mobile app excluding listings on third-party platforms (Agoda Booking.com Hotels.com).",
+        "Prices listed may be subject to service charge and prevailing government taxes where applicable.",
+        "Privileges cannot be exchanged for cash or used in conjunction with other promotional programmes offers discount cards vouchers or VIP privileges unless otherwise stated.",
+        "Klook reserves the right to require payment of fees or charges for any Services offered by Klook.",
+        "You shall pay all applicable fees or charges as described on this Website in connection with such Services selected by you.",
+        "Klook reserves the right to change its price list for fees or charges at any time upon notice to you which may be sent to you by email or posted on this Website.",
+        "Your use (or continued use) of the Services offered by Klook following such notification constitutes your acceptance of any new or revised fees or charges.",
+        "Klook supports payments in different currencies and rates can be converted into different currencies for your convenience.",
+        "Activity rates indicated in a certain currency are at a rate determined by Klook estimated using market spot rates.",
+        "Payment currency will be clearly indicated at time of payment.",
+        "Some credit cards may charge additional fees in handling certain currencies please consult with your credit card issuer if additional charges will apply to your transaction.",
+        "Klook reserves the right to suspend cancel or modify the promotion at any time without prior notice.",
+        "The qualifying and participating cardholders are bound by the terms and conditions of Klook and Citibank Singapore.",
+        "All bookings through the Promotion landing page must be made in accordance with Klook’s terms of use.",
+        "Klook does not guarantee uninterrupted services of the Promotion landing page.",
+        "Citibank's Mastercard’s and Klook’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank and Mastercard shall not be responsible for the quality merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss injury damage or harm suffered by or in connection with the products and/or services provided by third parties.",
+        "All disputes about quality or performance of the products and/or services shall be resolved directly with Klook.",
+        "Citibank Mastercard and Klook reserve the right at their reasonable discretion to vary add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+        "\"Citibank\" refers to Citibank Singapore Limited “Mastercard” refers to “Mastercard Asia/Pacific Pte Ltd” and “Klook” refers to Klook Travel Technology Limited."
+      ],
+      "anchorId": "sg-img-383233"
+    },
+    {
+      "offerNumber": 483,
+      "merchantId": "998197",
+      "merchantName": "Ajisen",
+      "validity": "01-Jan-27 To 31-Dec-27",
+      "validFrom": "2027-01-01",
+      "validTo": "2027-12-31",
+      "offerType": "Dining",
+      "offerSubType": "Japanese",
+      "offerTagName": "NULL",
+      "offerName": "Receive S$5 return voucher with any spend",
+      "location": "Singapore",
+      "name": "Vincent Lim",
+      "offerImage": "offer_merc_image_998197.jpg",
+      "offerDescriptions": [
+        "Receive S$5 return voucher with any spend (redeem with min. S$50 spend)*",
+        "*Valid at all participating Japan Foods Holding restaurant outlets in Singapore except Takashimaya outlets",
+        "Terms & Condition Apply"
+      ],
+      "offerTermsAndConditions": [
+        "The Promotion period is from 1 January 2027 to 31 December 2027 (both dates inclusive).",
+        "Payment must be charged to a Citi Credit Card or Citibank Debit Card.",
+        "Under the Promotion, a Citi Debit/Credit Cardmember will receive a S$5 Japan Foods Holding return voucher (“Voucher”) with any spend on any participating Japan Foods Holding restaurant outlets.",
+        "Voucher may be used only on the next visit and with a minimum spend of S$50 charged to a Citibank Debit/Credit Card.",
+        "Minimum spend requirement excludes service charge and GST.",
+        "Voucher is valid 3 months from date of issue. Strictly no extension is allowed.",
+        "Promotion is valid at all participating Japan Foods Holding restaurant outlets in Singapore except Takashimaya outlets. Visit jfh.com.sg for full outlet details.",
+        "Original voucher must be presented before payment is made.",
+        "Maximum 1 voucher may be used per table, per bill, per visit. No splitting of bills and tables allowed.",
+        "Voucher not applicable for use with other dining / staff / gift vouchers.",
+        "Citibank's and Japan Foods Holding’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Japan Foods Holding.",
+        "Citibank and Japan Foods Holding reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+        "\"Citibank\" refers to Citibank Singapore Limited. The term \"Japan Foods Holding” refers to Japan Foods Holding Ltd."
+      ],
+      "anchorId": "sg-img-998197"
     }
-  ]
+]
