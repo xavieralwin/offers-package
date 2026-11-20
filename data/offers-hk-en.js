@@ -18909,7 +18909,7 @@ window.HK_OFFERS_EN =
       "“15% off on flight tickets at Greater Bay Airlines” (“The Offer”) Terms and Conditions:",
       "1. The Offer is only applicable to cardholders of Citi Credit Cards, Debit Cards and Commercial Cards (“Cardholders”) issued by Citibank (Hong Kong) Limited (\"Citibank\") (“Eligible Cards”). Greater Bay Airlines (“Merchant”) may reject an Eligible Card if their payment system cannot manage some of the Eligible Card types, please contact Merchant for details.",
       "2. The Offer is valid from now until May 3, 2027 (both dates inclusive) or when the quota has been used, whichever is earlier (“Promotion Period”). For status of the quota, please contact Merchant for details.",
-      "3. During the Promotion Period, Cardholders are required to book flight ticket(s) through the Merchant official website (www.greaterbay-airlines.com) or its Mobile App (“Merchant Platforms”) for designated flight booking and apply designated Coupon (“Coupon”) using designated Coupon Code (“Coupon Code”) after completing passenger information to enjoy 15% off per booking (“Offer”). Applicable round-trip routes include Hong Kong to Tokyo / Osaka / Sapporo / Fukuoka / Sendai / Okinawa / Male (Maldives) / Taipei / Bangkok / Manila / Surabaya / Zhoushan (subject to flight availability of the Merchant during the period) and must originate from Hong Kong.",
+      "3. During the Promotion Period, Cardholders are required to book flight ticket(s) through the Merchant official website (www.greaterbay-airlines.com) or its Mobile App (“Merchant Platforms”) for designated flight booking and apply designated Coupon (“Coupon”) using designated Coupon Code (“Coupon Code”) after completing passenger information to enjoy 15% off per booking (“Offer”). Applicable round-trip routes include Hong Kong to Zhoushan / Male (Maldives) / Taipei / Bangkok / Manila / Surabaya / Tokyo / Osaka / Sapporo / Fukuoka / Sendai / Okinawa (subject to flight availability of the Merchant during the period) and must originate from Hong Kong.",
       "4. The applicable travel period is from November 20, 2026 to June 30, 2027 (except for December 18, 2026 – January 1, 2027; January 30 – February 9, March 20 – 29 and April 30 – May 2, 2027).",
       "5. Eligible branded fare types include Go Go Promo (Fare Class X/T/E/U/A), Go Go (Fare Class Q/O/X/T/E/U/A), Value Go (Fare Class Q/O/X/T/E/U/A), Flex Go (Fare Class Q/O/X/T/E/U/A), subject to product availability.",
       "6. To add and apply the Coupon, the Coupon Code must be entered after completing passenger information, and the Coupon is only applicable to Merchant Platforms in Hong Kong SAR - English version and Hong Kong SAR - Traditional Chinese version. Cardholders must ensure the Coupon is applied correctly during the reservation process in order to receive the discounted fare. Any fare difference resulting from an incorrectly entered Coupon Code will not be eligible for a refund.",
@@ -18953,5 +18953,305 @@ window.HK_OFFERS_EN =
       "40. These terms and conditions are governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region."
     ],
     "anchorId": "hk-img-750831"
-  }
+  },
+  {
+      "offerNumber": 430,
+      "merchantId": "564973",
+      "merchantName": "Sino Mall",
+      "validity": "26-Jan-26 To 31-Dec-26",
+      "validFrom": "2026-01-26",
+      "validTo": "2026-12-31",
+      "offerType": "Shopping",
+      "offerSubType": "Shopping Mall",
+      "offerTagName": "NULL",
+      "offerName": "Shop, Collect Stamps & Earn Rewards Up to HK$1,040!",
+      "location": "Hong Kong",
+      "name": "Chloe Cheng / hc21718",
+      "offerImage": "offer_merc_image_en_564973.jpg",
+      "offerDescriptions": [
+          "From January 26 to December 31 2026, simply shop with your physical Citi Credit Card at any of the 9 designated Sino Malls and unlock a world of exclusive rewards. For every HK$300 spent in a single transaction, you’ll earn 1 stamp. To collect your stamps, just register your Points at the mall concierge or customer service centre on the same day as your purchase.",
+          "As you accumulate stamps, you can redeem them for S Coupons in each campaign phase:",
+          "i. 5 stamps to redeem HK$30 S Coupon",
+          "ii. 12 stamps to redeem HK$80 S Coupon",
+          "iii. 20 stamps to redeem HK$150 S Coupon",
+          "Over the 4 phases, Members can collect up to 148 stamps and earn up to HK$1,040 in rewards! S Coupons are limited and available on a first-come, first-served basis.",
+          "But that’s not all—every time you redeem an S Coupon, you’ll receive 1 token to play the Mini Game for that phase. Each member can earn up to 3 tokens per phase, and each token gives you a chance to win up to 10 Bonus Points. That’s a maximum of 120 Bonus Points available over the 4 phases!",
+          "► Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000",
+          "For our most enthusiastic and loyal shoppers, there are even bigger prizes to grab. During the promotion period, members with the highest accumulated spending on their Citi Credit Card can win the “Top Accumulated Spender Rewards” valued at over HK$320,000, including GEELY EX2 All-electric Urban SUV, Lukfook Jewellery Coupons, Studio A & DG Lifestyle Store Shopping Vouchers, Banquet at Lantern Restaurant and S Coupons!",
+          "Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):",
+          "Top 10 Spenders will receive HK$1,000 S Coupons",
+          "Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):",
+          "Top 1 Spender to receive GEELY EX2 All-electric Urban SUV (Valued at HK$189,800*)",
+          "Top Spender Ranked 2 to receive HK$50,000 Lukfook Jewellery Coupons",
+          "Top Spender Ranked 3-5 to receive HK$10,000 Studio A & DG Lifestyle Store Shopping Vouchers",
+          "Top Spender Ranked 6-10 to receive Banquet for 4-6 guests at Lantern Restaurant (Valued at HK$5,000)",
+          "Top Spender Ranked 11-30 to receive HK$1,000 S Coupons",
+          "Top Spender Ranked 31-50 to receive HK$500 S Coupons",
+          "*Includes vehicle price of HK$130,000 and government First Registration Tax (FRT) for electric vehicles. (Note: This is an indicative price only. The final amount is subject to change based on the prevailing government incentives and adjustments to the FRT policy for electric vehicles.)",
+          "In addition to these exciting rewards, Citi Credit Cardholders can also enjoy 40+ exclusive merchant privileges throughout the year, making every purchase even more rewarding.",
+          "Exclusive Merchant Privileges",
+          "Don’t miss your chance to shop, collect, and win all year long with Citi Credit Card and S+ REWARDS!"
+      ],
+      "offerDescriptionBlocks": [
+          {
+              "type": "paragraph",
+              "text": "From January 26 to December 31 2026, simply shop with your physical Citi Credit Card at any of the 9 designated Sino Malls and unlock a world of exclusive rewards. For every HK$300 spent in a single transaction, you’ll earn 1 stamp. To collect your stamps, just register your Points at the mall concierge or customer service centre on the same day as your purchase."
+          },
+          {
+              "type": "paragraph",
+              "text": "As you accumulate stamps, you can redeem them for S Coupons in each campaign phase:"
+          },
+          {
+              "type": "bullets",
+              "items": [
+                  "5 stamps to redeem HK$30 S Coupon",
+                  "12 stamps to redeem HK$80 S Coupon",
+                  "20 stamps to redeem HK$150 S Coupon"
+              ]
+          },
+          {
+              "type": "paragraph",
+              "text": "Over the 4 phases, Members can collect up to 148 stamps and earn up to HK$1,040 in rewards! S Coupons are limited and available on a first-come, first-served basis."
+          },
+          {
+              "type": "paragraph",
+              "text": "But that’s not all—every time you redeem an S Coupon, you’ll receive 1 token to play the Mini Game for that phase. Each member can earn up to 3 tokens per phase, and each token gives you a chance to win up to 10 Bonus Points. That’s a maximum of 120 Bonus Points available over the 4 phases!"
+          },
+          {
+              "type": "heading",
+              "text": "► Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000"
+          },
+          {
+              "type": "paragraph",
+              "text": "For our most enthusiastic and loyal shoppers, there are even bigger prizes to grab. During the promotion period, members with the highest accumulated spending on their Citi Credit Card can win the “Top Accumulated Spender Rewards” valued at over HK$320,000, including GEELY EX2 All-electric Urban SUV, Lukfook Jewellery Coupons, Studio A & DG Lifestyle Store Shopping Vouchers, Banquet at Lantern Restaurant and S Coupons!"
+          },
+          {
+              "type": "heading",
+              "text": "Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):"
+          },
+          {
+              "type": "bullets",
+              "items": [
+                  "Top 10 Spenders will receive HK$1,000 S Coupons"
+              ]
+          },
+          {
+              "type": "heading",
+              "text": "Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):"
+          },
+          {
+              "type": "bullets",
+              "items": [
+                  "Top 1 Spender to receive GEELY EX2 All-electric Urban SUV (Valued at HK$189,800*)",
+                  "Top Spender Ranked 2 to receive HK$50,000 Lukfook Jewellery Coupons",
+                  "Top Spender Ranked 3-5 to receive HK$10,000 Studio A & DG Lifestyle Store Shopping Vouchers",
+                  "Top Spender Ranked 6-10 to receive Banquet for 4-6 guests at Lantern Restaurant (Valued at HK$5,000)",
+                  "Top Spender Ranked 11-30 to receive HK$1,000 S Coupons",
+                  "Top Spender Ranked 31-50 to receive HK$500 S Coupons"
+              ]
+          },
+          {
+              "type": "paragraph",
+              "text": "*Includes vehicle price of HK$130,000 and government First Registration Tax (FRT) for electric vehicles. (Note: This is an indicative price only. The final amount is subject to change based on the prevailing government incentives and adjustments to the FRT policy for electric vehicles.)"
+          },
+          {
+              "type": "paragraph",
+              "text": "In addition to these exciting rewards, Citi Credit Cardholders can also enjoy 40+ exclusive merchant privileges throughout the year, making every purchase even more rewarding."
+          },
+          {
+              "type": "heading",
+              "text": "Exclusive Merchant Privileges"
+          },
+          {
+              "type": "paragraph",
+              "text": "Don’t miss your chance to shop, collect, and win all year long with Citi Credit Card and S+ REWARDS!"
+          }
+      ],
+      "offerTermsAndConditions": [
+          "General Terms & Conditions:",
+          "1.Unless otherwise specified, the promotion is valid from January 26 to December 31, 2026, both dates inclusive (based on transaction date) (\"Promotion Period\").",
+          "2.The Promotion Period is divided into four (4) distinct phases as follows: •Phase 1: January 26, 2026, to March 31, 2026 (both dates inclusive) •Phase 2: April 1, 2026, to June 30, 2026 (both dates inclusive) •Phase 3: July 1, 2026, to September 30, 2026 (both dates inclusive) •Phase 4: October 1, 2026, to December 31, 2026 (both dates inclusive)",
+          "3.Unless otherwise specified, the promotion is applicable to cardholders of physical Citi Credit Cards and/or issued by Citibank (Hong Kong) Limited (“Citibank”) (“Physical Eligible Cards”), who are also members of S⁺ REWARDS Loyalty Program (“S⁺ REWARDS”) managed by Sino Real Estate Agency Limited (“Sino”) (\"Cardholders\").",
+          "4.Cardholders must successfully download the latest version of “S⁺ REWARDS” mobile application (“the App”) and sign up as Registered Members with mobile number via the App in order to enjoy the offers under the promotion. Each valid mobile number can only be registered once only.",
+          "5.Unless otherwise specified, the promotion is applicable to the following transactions made by the Physical Eligible Cards during the Promotion Period at the shopping and dining outlets which are participating in S⁺ REWARDS, listed on the S⁺ REWARDS website and the App (\"Designated Outlets\") of participating malls of Merchant (\"Participating Malls\"), including tmtplaza, Olympian City, Citywalk, China Hong Kong City, Gold Coast Piazza, Tsim Sha Tsui Centre & Empire Centre, Island Resort Mall, One North and Sino Plaza (\"Eligible Transactions\"):  •Posted retail transactions or contactless payment retail transactions with original Physical Eligible Card sales slips and original merchant sales receipts; and  •Newly billed Merchant Installment Plan that are posted during the Promotion Period with original Physical Eligible Card sales slips and original merchant sales receipts; and •Citibank reserves the right to determine and change which purchases/payments/transactions qualify as Eligible Transactions at its absolute discretion from time to time; and  •Sino reserves the right to determine and change which purchases/payments/transactions qualify as Eligible Transactions according to the S+ REWARDS program terms and conditions at its absolute discretion; and  •Only applicable to the final amount of Eligible Transactions charged to the Physical Eligible Card after deduction of all applicable discounts, reductions and value of cash vouchers (if applicable) (\"Net Spending Amount\").",
+          "6.The promotion is NOT applicable to the following transactions:  •spending on or through telecommunications services, or banking or currency exchange services;  •spending on car parks;  •store credits, purchase of or adding value to gift cards or stored value facilities;  •other transactions including but not limited to utilities bill payments, purchase of or adding value to stored-value cards (including the unauthorised or fraudulent transactions, transactions recorded by hand written payment slips and any transactions without electronic payment slips and/or merchant sales receipts);  •online purchases (except for movie tickets), mail, fax or phone orders;  •any transactions and payments made by cash, gift cards, gift vouchers or cash vouchers; or  •any transactions made via any e-wallets (including but not limited to Apple Pay, Google Pay, Samsung Pay, Alipay, Wechat Pay, Tap & Go and PayMe);  •any other purchases/payments/transactions that Citibank may at its absolute discretion exclude from time to time. and  •any other purchases/payments/transactions that Sino, at its absolute discretion, excludes according to the S+ REWARDS program terms and conditions.",
+          "7.Cardholders must keep and submit the relevant original Physical Eligible Card sales slips and original merchant sales receipts of Eligible Transactions for inspection upon request by Citibank. All relevant documents submitted to Citibank will not be returned.",
+          "8.Cardholders’ Eligible Card accounts must be valid and with good credit records during the Promotion Period and at the time when the offers are awarded or used; otherwise, Citibank reserves the right to forfeit the offers without prior notice.",
+          "9.In case of any fraud/abuse/reversal/cancellation of the transactions used for the award of the offers, Citibank reserves the right to debit from Cardholder’s Eligible Card account the equivalent value of the reward(s) without prior notice.",
+          "10.The offers are not exchangeable for cash or other items and are non-refundable.",
+          "11.The offers are subject to the availability of S Coupon and at absolute discretion of Citibank and Sino.",
+          "12.Citibank and Sino shall not be responsible for any matters in relation to the related products or services. The respective Designated Outlets are solely responsible for all obligations and liabilities related to such products or services and all auxiliary services.",
+          "13.Citibank, Sino and the respective Designated Outlets reserve the right to amend the Terms & Conditions without prior notice. All matters and disputes are subject to the final and conclusive decision of Citibank, Sino and the respective Designated Outlets, which is legally binding on the Cardholder.",
+          "14.In the event of any discrepancy between the English and Chinese versions of these Terms & Conditions, the English version shall prevail.",
+          "15.The referenced document provides information about, and access to accounts and financial services provided by Citibank (Hong Kong) Limited and Citibank, N.A. Hong Kong Branch in Hong Kong. It does not, and should not be construed as, an offer, invitation or solicitation of services to individuals residing outside of Hong Kong. This reference document is not intended for distribution to, or use by, any person in any country where such distribution or use would be contrary to local law or regulation, and none of the services or investments referred to in this referenced document are available to persons resident in any country where the provision of such services or investments would be contrary to local law or regulation.",
+          "16.Registration of S+ REWARDS Points are subject to terms and conditions, which can be found in the S+ REWARDS Programme Terms and Conditions.",
+          "“Year-Round Spending Stamp Rewards” Terms and Conditions:",
+          "17.The Cardholder with a Physical Eligible Card must successfully register the Points at the concierge / customer service centre in the Participating Malls to earn one (1) Stamp for every HK$300 spent in a single transaction on the same day at the same Participating Mall during the Promotion Period (“Year-Round Spending Stamp Rewards”).",
+          "18.A maximum of thirty-seven (37) stamps may be earned during each campaign phase. Each type of S Coupon may only be redeemed once per campaign phase.",
+          "19.Cardholders who have accumulated the maximum of thirty seven (37) Stamps within a phase may continue to register Eligible Transactions for the “Year Round Spending Stamp Rewards”. While no additional Stamps will be awarded beyond the maximum limit, the Net Spending Amount of such transactions will continue to be counted towards participation in the “Top Accumulated Spender Rewards”.",
+          "20.Stamps can be accumulated and redeemed for S Coupons in each campaign phase as follows: •5 stamps to redeem HK$30 S Coupon   •12 stamps to redeem HK$80 S Coupon       •20 stamps to redeem HK$150 S Coupon",
+          "21.S Coupon will be distributed as below: a.HK$30 S Coupons will be issued as one (1) HK$20 S Coupon and one (1) HK$10 S Coupon.  b.HK$80 S Coupons will be issued as four (4) HK$20 S Coupons.   c.HK$150 S Coupon will be issued as one (1) HK$100 S Coupons and one (1) HK$50 S Coupon.",
+          "22.At the start of each campaign phase, all accumulated Stamps from the previous phase will be reset to zero. Cardholders must begin collecting Stamps anew for each phase; Stamps earned in one phase cannot be carried forward to subsequent phases.",
+          "23.The quota of S Coupons available for redemption will also be reset to the original stock level at the commencement of each new phase. This means that the number of S Coupons available for redemption in each phase will be replenished, subject to the prevailing quota for that phase.",
+          "24.Quotas of “Year-Round Spending Stamp Rewards” apply on a first-come-first-served basis while quotas last without prior notice. For the quota status, please visit the “Year-Round Spending Stamp Rewards” page.",
+          "25.Each Cardholder (including all principal and supplementary cards under his/her Physical Eligible Card account) is entitled to a maximum value of HK$260 in S Coupons per phase. Each type of S Coupon may only be redeemed once per phase. During the entire Promotion Period, a maximum of twelve (12) S Coupon redemptions is allowed, amounting to a maximum value of HK$1,040 in S Coupons.",
+          "26.The original merchant sales receipts and corresponding payment sales slips of the Physical Eligible Cards issued by the Designated Outlets at the Participating Malls per Cardholder must be presented together with the Physical Eligible Card (digital versions or screenshots are not accepted) at the below redemption location on the same day of the transaction date at the same Participating Mall (as per the date stated on the machine-printed sale slips), and must be successfully registered the Points in S+ REWARDS, in order to receive the “Year-Round Spending Stamp Rewards”, overdue receipts will not be entertained. Each receipt must be HK$300 or above.",
+          "27.Notwithstanding the foregoing, if a transaction is made on or within 30 minutes before the closing time of the concierge / customer service center, the member must visit the concierge / customer service center on the following day to register Points, and any late registration will not be accepted.",
+          "28.The transaction amount stated on the original merchant sales receipt must exactly match the amount shown on the corresponding payment sales slips of the Physical Eligible Cards. Any discrepancies will render the transaction ineligible for “Year-Round Spending Stamp Rewards” redemption.",
+          "29.To be eligible for “Year-Round Spending Stamp Rewards” redemption, the entire transaction amount (100%) must be settled using the relevant Physical Eligible Card. Transactions settled partially using other payment methods (including but not limited to cash, other credit cards, or electronic payment tools) will not be eligible for redemption.",
+          "30.The following information will be recorded by the staff at the concierge / customer service centre in the Participating Malls:  a.S⁺ REWARDS member ID  b.Transaction date  c.Mall & Merchant name  d.Net spending amount  e.First 6 digits of the Citi credit card f.Last 4 digits of the Citi credit card g.Authorization code on the Physical Eligible Card payment sales slips Each Cardholder who fails to provide the above-mentioned documentation will not be eligible to receive the “Year-Round Spending Stamp Rewards”.",
+          "31.For details on redemption locations, please refer to this website: https://www.splusrewards.com.hk/en/citi-year-round-spending-stamp-rewards-en/.",
+          "32.Stamps issued under “Year-Round Spending Stamp Rewards” will be credited to eligible Cardholders at the concierge / customer service center of Participating Malls upon successful registration of qualifying transactions. Once awarded, Stamps will be reflected and viewable on the “Year-Round Spending Stamp Rewards” page within the App, enabling Cardholders to track their accumulation and proceed with redemption in each phase.",
+          "33.Participation and rewards are both limited and will be allocated on a first-come, first-served basis. Once the campaign quota is reached, members will no longer be able to engage in the campaign and will not be eligible to receive rewards, even if they fulfil all the required conditions. If the quota for the “Year-Round Spending Stamp Rewards” is fully utilized on or before the end of the designated Phase Period, that Phase will conclude in advance. For example, if the quota for Phase 1 of “Year-Round Spending Stamp Rewards” is fully consumed on March 1, 2026, Phase 1 will end on that date.",
+          "34.Cardholders should check the S Coupon upon rewards redemption. Once the S Coupon redemption procedure is completed, it will not be returned or changed. Any cash vouchers or discount vouchers that may be redeemed as gifts/ rewards under the captioned Promotion shall not be refunded or redeemable for cash.",
+          "35.The S Coupons redeemed through the accumulation of stamps in the “Year-Round Spending Stamp Rewards” page will be immediately shown as “Available” under the “S Coupons” in “My Rewards” on the App and can be used as cash with merchants accepting S Coupons. Only S Coupons with status “Available” can be used.",
+          "36.S Coupons issued under “Year-Round Spending Stamp Rewards” are valid for two (2) months from the date of redemption and are applicable to respective participating shops at the Participating Malls. Upon expiry, any remaining S Coupons will be void and will not be re-issued.",
+          "37.The usage of S Coupon is subject to the remaining balance of the transaction(s) (if applicable) to be settled by the Physical Eligible Cards.",
+          "38.Additional terms and conditions apply to the use and redemption of S Coupon. Please refer to S⁺ REWARDS website and the App for details and the list of participating merchants in the Participating Malls.",
+          "39.The staff at the concierge / customer service centre in the Participating Malls may stamp all sales receipts, electronic payment slips and other documents which are presented in person. All sales receipts and electronic payment slips which have been presented in person (whether stamped or not) or uploaded through the App or AlipayHK / AlipayCN “S⁺ Rewards” Mini App for Registered Spending, earning the Points and/or participating in the Event will not be accepted again for the same purpose.",
+          "40.S Coupons are subject to terms and conditions, which can be found in the terms and conditions of the relevant S Coupons within the App or the S⁺ REWARDS Programme Terms and Conditions. S Coupons are valid for use with designated merchants in Participating Malls with the Physical Eligible Cards. The list of Merchants Accepting S Coupons may be viewed on the S⁺ REWARDS web page and mobile app. The list of Merchants Accepting S Coupons will be updated from time to time without notice.",
+          "41.Any S Coupons lost due to deleting an app account or changing a mobile phone number shall not be returned or compensated.   “Mini Games” Terms and Conditions",
+          "42.There will be four (4) Mini Games held during the Promotion Period, each corresponding to a specific campaign phase: •Phase 1: March 16, 2026, to March 31, 2026 (both dates inclusive) •Phase 2: June 15, 2026, to June 30, 2026 (both dates inclusive) •Phase 3: September 14, 2026, to September 30, 2026 (both dates inclusive) •Phase 4: Mini Game: December 15, 2026, to December 31, 2026 (both dates inclusive)",
+          "43.During each campaign phase, Members will earn one (1) token for each reward successfully redeemed under the “Year-Round Spending Stamp Rewards”. Each phase offers up to three (3) rewards, and an eligible Member may receive a maximum of three (3) tokens per phase.",
+          "44.Each token entitles the Member to one (1) play of the Mini Game during the designated period for that phase (as specified in Clause 41). Each play may award up to ten (10) Bonus Points, with a maximum of thirty (30) Bonus Points per phase.",
+          "45.Tokens are non-transferable and shall not be refunded or redeemable for cash and may only be used within the phase in which they are earned. Bonus Points awarded through Mini Games are subject to the S⁺ REWARDS Programme Terms and Conditions.",
+          "“Top Accumulated Spender Rewards” Terms and Conditions:",
+          "46.Throughout the Promotion Period, the top spending cardholders who accumulate the highest spending value under “Year-Round Spending Stamp Rewards” will be awarded different prizes (“Top Accumulated Spender Rewards”).",
+          "47.There will be two (2) rounds of “Top Accumulated Spender Rewards” held during the Promotion Period, each corresponding to a specific period: •Round 1: For transactions made from January 26, 2026, to June 30, 2026 (both dates inclusive), the top ten (10) spenders will be announced on July 6, 2026. •Round 2: For transactions made from January 26, 2026, to December 31, 2026 (both dates inclusive), the top fifty (50) spenders will be announced on January 5, 2027.",
+          "48.Rewards will be allocated based on the ranking of accumulated Eligible Spending during the Round Period as follows: Round 1 Top Accumulated Spender Reward  Spending Period: January 26, 2026, to June 30, 2026 (both dates inclusive) •Top 10 Spenders will receive HK$1,000 S Coupons   Round 2 Top Accumulated Spender Reward  Spending Period: January 26, 2026 to December 31, 2026 (both dates inclusive) •Top 1 Spender to receive GEELY EX2 All-electric Urban SUV (Valued at HK$189,800*) •Top Spender Ranked 2 to receive HK$50,000 Lukfook Jewellery Coupons •Top Spender Ranked 3-5 to receive HK$10,000 Studio A & DG Lifestyle Store Shopping Vouchers •Top Spender Ranked 6-10 to receive Banquet for 4-6 guests at Lantern Restaurant (Valued at HK$5,000)  •Top Spender Ranked 11-30 to receive HK$1,000 S Coupons •Top Spender Ranked 31-50 to receive HK$500 S Coupons",
+          "49.Each Cardholder is entitled to receive the “Top Accumulated Spender Rewards” only ONCE per Round Period. Rewards are allocated strictly based on the ranking of accumulated Eligible Spending.",
+          "50.Sino shall determine the eligibility of Cardholders to receive the “Top Accumulated Spender Rewards” based on its records, at its sole and absolute discretion. Cardholders shall not raise any objection to the Promotion or Sino's decision. In case of any dispute, Sino reserves the sole and absolute right to make final and conclusive decisions. Citibank shall not be responsible for any matters relating to the fulfillment of the offers. For further details and any dispute resolution, please contact Sino.",
+          "51.The top ten (10) spending Cardholders in Round 1 and the top fifty (50) spending Cardholders in Round 2 will be notified via the App and by SMS sent to their registered mobile phone number on or before July 6, 2026, and January 5, 2027, respectively.",
+          "52.The top ten (10) Cardholders in Round 1 will each receive HK$1,000 S Coupons, issued as two (2) HK$500 S Coupons. S Coupons will be displayed under the “Available” status in the “S Coupons” section of “My Rewards” in the App on or before July 6, 2026 and may be used as cash at designated merchants. Only S Coupons marked as “Available” are valid. Each S Coupon is valid for two (2) months from the date of issuance and will be void upon expiry without reissuance. Any remaining balance after using the S Coupon must be settled with a Physical Eligible Card.",
+          "53.The top spending Cardholder in Round 2 will receive a physical redemption letter for redeeming a GEELY EX2 All-electric Urban SUV (the Grand Prize). The redemption letter will be distributed to member as a “Redeemed” gift in the “My Rewards” section of the S+ REWARDS App. Winner must present their gift QR code from the App and a valid original ID card or passport at the Concierge of Tsim Sha Tsui Centre on or before February 5, 2027 to collect the physical redemption letter. Authorized collection on behalf of the Winner is strictly prohibited, and failure to collect the physical redemption letter within the designated period shall automatically result in forfeiture of the Grand Prize without replacement or compensation. Winner must follow the instructions on the redemption letter to complete vehicle redemption on or before March 5, 2027, failing which the Grand Prize will be forfeited without replacement or compensation. Any forfeited prize shall be dealt with at the absolute discretion of Sino, including but not limited to sale, reallocation for future promotional campaigns, or conversion into an equivalent prize. The Winner must present the redemption letter and a valid identity document matching the details on the redemption letter when redeeming the Grand Prize. The decision of Sino shall be final, conclusive and legally binding in verifying such identity. The GEELY EX2 All-electric Urban SUV is subject to the Dealer’s (as defined hereinafter) specific terms and conditions stated in the redemption letter. Zhilian Zhili New Energy Auto Service (Hong Kong) Limited (“Dealer”) is solely responsible for all obligations, basic warranty and after-sales services (services and pricing based on original manufacturer specifications), and all disputes including but not limited to dispute regarding quality, performance, repair and condition for use, function, merchantable, roadworthiness and/or value of the Grand Prize shall be handled directly between the Winner and Dealer and are subject to Dealer’s final decision. Sino and Participating Malls are not the supplier or dealer or service provider and shall not be liable for any compensation, loss and damage of whatsoever nature in all respects relating to the vehicle. Vehicle details, including but not limited to Make & Model, Production Year, and Color, are provided by Dealer, and any additional services must be arranged directly with Dealer. Zhilian Zhili New Energy Auto Service (Hong Kong) Limited will only cover the cost of the vehicle and government First Registration Tax (“FRT”) (i.e., valued at HK$189,800, final amount is subject to change based on the prevailing government incentives and adjustments to the FRT policy for electric vehicles). All additional fees related to the vehicle — including but not limited to vehicle licensing fee, license plate fee, levy for Traffic Accident Victim Assistance Fund, insurance and any other expenses — shall be borne solely and absolutely by the winner; failure to complete registration or settle the required fees within the designated period will result in forfeiture of the prize without compensation. Zhilian Zhili New Energy Auto Service (Hong Kong) Limited (the Dealer) reserves the right of final decision on any dispute.",
+          "54.The 2nd, 3rd & 4th prizes in Round 2 will be issued in the form of physical vouchers. The vouchers will be distributed to member as a “Redeemed” gift in the “My Rewards” section of the S+ REWARDS App. Winner must present their gift QR code from the App and a valid original ID card or passport at the Concierge of designated Sino Malls on or before February 5, 2027 to collect the physical vouchers. Authorized collection on behalf of the Winner is strictly prohibited, and failure to collect the physical vouchers within the designated period shall automatically result in forfeiture of the prize without replacement or compensation. Winners must use the vouchers in accordance with the terms of use and validity period stated on the vouchers. Expired vouchers are void and will not be reissued.",
+          "55.The 4th prize winners in Round 2 will receive a physical voucher for the “Banquet for 4–6 guests at Lantern Restaurant”. The voucher is valid only at Lantern Restaurant located in tmtplaza, Tuen Mun and is valid until December 31, 2028, exclusively for use at Lantern Restaurant – Tuen Mun. The voucher includes tea charges for 4–6 persons and a 10% service charge. Each voucher may be used once only and cannot be exchanged for cash. Any unused balance will not be refunded. Reservations must be made at least one (1) day in advance by calling the restaurant and specifying the “Banquet for 4–6 guests at Lantern Restaurant”, and the voucher number must be provided for verification. Same day no show or cancellation will be regarded as voucher used, and no replacement voucher will be issued. In case of any dispute, Lantern Restaurant reserves the right of final decision and interpretation.",
+          "56.For the 2nd, 3rd & 4th prizes in Round 2, any remaining balance after applying the coupons or vouchers must be settled using a Physical Eligible Card.",
+          "57.The 5th prize in Round 2 (HK$1,000 S Coupons) will be issued as two (2) HK$500 S Coupons; the 6th prize (HK$500 S Coupon) will be issued as one (1) HK$500 S Coupon. S Coupons will be displayed under the “Available” status in the “S Coupons” section of “My Rewards” in the App on or before January 5, 2027, and may be used as cash at designated merchants. Only S Coupons marked as “Available” are valid. Each S Coupon is valid for two (2) months from the date of issuance and will be void upon expiry without reissuance. Any remaining balance after using the S Coupon must be settled with a Physical Eligible Card.",
+          "58.Prizes must be collected in person at the designated location within the designated period. Subject to Clause 52 above, Winners must present the corresponding Gift QR code in the App and a valid identity document to collect the Prize. Authorized collection on behalf of the Winner is not permitted. Prizes not collected within the designated period will be forfeited and deemed invalid.",
+          "59.Citibank and Sino shall not be liable for any delay, loss, error, or unrecognizability of information submitted by Cardholders due to any computer, network, or other technical problems.",
+          "60.All prizes are subject to the terms and conditions as stipulated by the Dealer / suppliers.",
+          "61.All prize photos, promotional materials, and product information are for reference only. The actual products shall be considered as final.",
+          "62.Citibank and Sino shall not be liable for any loss, damage, theft, or misplacement of the prize after it has been collected by the winner.",
+          "63.Any dispute including but not limited to the quality, performance, or value of the prizes should be dealt with directly between the winner and the Dealer / suppliers. All warranties and after-sale services shall be the responsibility of the Dealer / suppliers. Citibank and Sino shall have no liability in respect of the above, nor for any aspect of any related products/services, including without limitation their quality and supply.",
+          "64.Citibank and Sino are not the Dealer / suppliers of the above products or services and therefore are not responsible for any matters relating to such products or services. The Dealer / suppliers of the relevant products or services shall bear all legal responsibilities for the products or services. Once the products or services have been redeemed or purchased, they cannot be exchanged or refunded.",
+          "65.Notifications via the App and SMS serve as reminders only. Cardholders must check the official announcement in the App on the specified date. If for any reason, a Cardholder fails to receive the notification and is unable to claim the gift, the gift will not be reissued, and Citibank and Sino will not be held liable.",
+          "66.The “Top Accumulated Spender Rewards” cannot be returned, transferred, exchanged or traded for cash or other offers and is not replaceable in the event of any loss or damage.",
+          "67.By participating in the “Year-Round Spending Stamp Rewards” campaign, Cardholders accept and agree to abide by these terms and conditions.",
+          "68.Citibank and Sino shall not be responsible for any loss, error, unidentifiable, or damaged gifts received by the cardholders due to network, telephone, or technical error or problem or for any other reason not attributable to Citibank and Sino.",
+          "69.Citibank and Sino have the right to suspend, terminate or cancel the offers at any time without reason and without compensation and whatsoever nature without any prior notice.",
+          "“Exclusive Merchant Privileges” Terms and Conditions:",
+          "70.Cardholders can enjoy exclusive privileges provided by the designated merchants at the Participating Malls. For offer details and the Terms and Conditions, please refer to citibank.hk/sinomalls-merchantyro or the Participating Mall’s website.",
+          "71.The designated merchants may refuse to accept the Eligible Card if their payment system does not support a certain type of card. Please contact the designated merchants for details.",
+          "72.Citibank shall not be responsible for any matters in relation to the related products or services provided by designated merchants. The designated merchants are solely responsible for all obligations and liabilities related to such products or services and all auxiliary services.",
+          "73.For any enquiries on the Exclusive Merchant Privileges, please check with designated merchants at the Participating Malls."
+      ],
+      "anchorId": "hk-img-564973"
+  },
+    {
+      "offerNumber": 431,
+      "merchantId": "827839",
+      "merchantName": "WeChat Pay Hong Kong",
+      "validity": "20-Nov-26 To 31-Mar-27",
+      "validFrom": "2026-11-20",
+      "validTo": "2027-03-31",
+      "offerType": "Shopping",
+      "offerSubType": "Others",
+      "offerTagName": "NULL",
+      "offerName": "Up to HK$55 Binding and Cross-border Spending Rewards",
+      "location": "Hong Kong",
+      "name": "Chloe Cheng / hc21718",
+      "offerImage": "offer_merc_image_827839.jpg",
+      "offerDescriptions": [
+        "Citi Mastercard Credit Card:",
+        "Citi Mastercard credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
+        "► Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "► Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
+        "Citi Visa / UnionPay Credit Card:",
+        "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
+        "► Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "► Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+      ],
+      "offerDescriptionBlocks": [
+        {
+          "type": "heading",
+          "text": "Citi Mastercard Credit Card:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Citi Mastercard credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+            "Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Citi Visa / UnionPay Credit Card:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+            "Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+          ]
+        }
+      ],
+      "offerTermsAndConditions": [
+        "General Terms and Conditions:",
+        "1. This Promotion is organized by Citibank (Hong Kong) Limited (\"Citibank\") and WeChat Pay Hong Kong Limited (“WeChat Pay Hong Kong”) and is governed by the laws of Hong Kong.",
+        "2. The promotion period is from now until March 31, 2027 (both dates inclusive) (“Promotion Period”). All Eligible Transactions (based on transaction dates, as defined in Clause 5) must be conducted during the Promotion Period.",
+        "3. Unless otherwise specified, rewards under this Promotion are only applicable to cardholders (\"Cardholders\") of Citi Mastercard Credit Cards and other Citi Credit Cards issued by Citibank in Hong Kong (“Eligible Cards”).",
+        "4. Cardholders are required to settle payment of their Eligible Card(s) in full during the Promotion Period to enjoy Binding Reward (as defined in Clause 32) and Instant Discount Reward (as defined in Clause 39) (“Rewards”). For the avoidance of doubt, the Rewards are not applicable to the following types of transactions: any transactions that are subject to cancellation, charge-back, return of goods and/or refund; any autopay, unposted transactions or any other payment transactions as specified by Citibank from time to time; reloads of e-Wallet or Octopus Automatic Add-Value Service; or any other type of transaction as determined by Citibank from time to time.",
+        "5. “Eligible Transaction(s)” refers to the designated posted Chinese Mainland offline and online transaction(s) made in Hong Kong Dollars (excluding money transfer, red packet transfer, top-up for any stored value facilities, payments via Utilities and Telecom Payment, charity donation and cross-border remittance) with an Eligible Card via WeChat Pay HK during the Promotion Period.",
+        "6. Designated Merchants refer to Chinese Mainland merchants that accept payments via WeChat Pay HK (merchant list to be determined by WeChat Pay Hong Kong at its sole and absolute discretion and updated from time to time) (“Designated Merchants”). For the avoidance of doubt, all cross-border transaction via WeChat Pay HK will be automatically settled in Hong Kong Dollars. For any enquiries about Designated Merchants, please contact WeChat Pay Hong Kong Customer Service Line at 3929",
+        "1666. 7.“WeChat Pay HK” is a mobile-based stored value facility, managed and operated by WeChat Pay Hong Kong.",
+        "8. Citibank will determine the eligibility of Cardholders to participate in this Promotion, as well as the transactions based on Citibank’s internal records.",
+        "9. In the event of any fraud/abuse/reversal or cancellation of transactions in respect of which the Rewards were awarded, Citibank reserves the right to deduct from the Cardholder’s Eligible Card account(s) or (as the case may be) bank accounts the equivalent amount of the Rewards without prior notice.",
+        "10. If a Cardholder breaches these terms and conditions or engages in illegal, fraudulent, or abusive behavior to obtain and/or use the rewards hereunder, or if any Cardholder engages in behavior that affects the fair participation of  the other participants in this Promotion, Citibank and/or WeChat Pay Hong Kong reserves the rights to immediately forfeit such Cardholder’s eligibility of participating in this Promotion and/or obtaining (if obtained) and/or the use of the relevant Rewards without prior notice.",
+        "11. Cardholders’ Eligible Card accounts must be valid and with good credit record at the time of receiving the Rewards and during the Promotion Period in order to be eligible to receive the Rewards, otherwise Citibank reserves the right to forfeit the Rewards without prior notice.",
+        "12. Cardholders participating in this Promotion must be WeChat Pay HK users and maintain their WeChat Pay HK accounts in normal and good standing. If their WeChat Pay HK accounts are in abnormal, account protection, or restricted status during the Promotion Period or upon distribution or use of the Rewards under this Promotion, it shall be deemed that the relevant Cardholders are not eligible to participate in this Promotion and receive the relevant Rewards and have forfeited their rights to use those Rewards.",
+        "13. During the Promotion Period, each Cardholder can participate in this Promotion once only. To avoid any dispute, in the following circumstances, the relevant WeChat Pay HK accounts will be deemed to be used by the same WeChat Pay HK user (i.e. the same Cardholder) when there is: (a)Logging in of multiple WeChat Pay HK accounts on the same mobile phone or mobile device; or (b)Logging in of the same WeChat Pay HK account with multiple mobile phones or mobile devices; or (c)The same credit card or bank account number being linked to multiple WeChat Pay HK accounts. In the case of any of the above, WeChat Pay Hong Kong reserves the right to suspend or terminate the release of any rewards to the relevant WeChat Pay HK accounts and to take any legal action to recover loss(es) that it deems fit.",
+        "14. Generally, only one reward (including the instant discount and e-cash voucher) can be used for each transaction conducted with WeChat Pay HK. If there are multiple rewards that can be used in a transaction, the WeChat Pay HK system will automatically use the reward with the higher value first. If there are multiple rewards with the same value that can be used in a transaction, the WeChat Pay HK system will automatically use the reward with the earliest expiration date first.",
+        "15. Cardholders must keep and submit the relevant original credit card sales slips and original merchant sales receipts and/or other documents in respect of Eligible Transactions for inspection upon request by Citibank. All documents submitted to Citibank will not be returned.",
+        "16. Where a refund after payment is completed, (a)in the case of a full refund (as agreed between the Cardholder and the relevant merchant), the relevant reward that has been used will be reissued with its validity period and conditions of usage unchanged. If the relevant reward has expired at the time of successful refund, it cannot be used again and will not be reissued; (b)in the case of a partial refund (as agreed between the Cardholder and the relevant merchant), the relevant reward that has been used will not be reissued. Please contact the relevant merchant directly for a refund. WeChat Pay Hong Kong will not intervene in any refund arrangements and does not guarantee and is not responsible for the performance or quality of products/services provided by the relevant merchant.",
+        "17. Unless otherwise specified, this Promotion cannot be used in conjunction with other special promotions, discounts, or promotional coupons, nor transferred or exchanged for cash or other offers.",
+        "18. Availability of the Rewards are subject to offer or service availability, account status checking and final acceptance by Citibank and WeChat Pay Hong Kong’s absolute discretion. Photos, product specifications and prices are for reference only.",
+        "19. Citibank shall not be responsible for any matters in relation to the related products or services provided by WeChat Pay Hong Kong. WeChat Pay Hong Kong is solely responsible for all obligations and liabilities relating to such products or services and all auxiliary services, except for any card payment and/or points redemption services provided by Citibank.",
+        "20. The Rewards received from this Promotion cannot be used to settle any previous outstanding balances, withdrawn as cash advance, nor transferred or exchanged for cash or other offers.",
+        "21. Availability of the Rewards is subject to offer quota or service availability, account status checking and final acceptance by Citibank and WeChat Pay Hong Kong at their absolute discretion.",
+        "22. Cardholders shall be deemed to have accepted any risks and liabilities in whatsoever nature associated with the services / auxiliary services supplied by Citibank and WeChat Pay Hong Kong, and shall waive any claim against by Citibank and WeChat Pay Hong Kong in relation to such risks and liabilities when Cardholders make the relevant transactions.",
+        "23. Citibank and WeChat Pay Hong Kong will carry out this Promotion in accordance with applicable laws in Hong Kong. In the event this Promotion is stopped by government agency’s orders or must be suspended due to server network attack or system failure or any circumstances beyond Citibank’s and WeChat Pay Hong Kong’s control, such event shall be regarded as a force majeure event, and Citibank and WeChat Pay Hong Kong shall not be liable for any damage, loss or dispute therein.",
+        "24. By participating in this Promotion, the Cardholders accept and agree to be bound by the terms and conditions of this Promotion, and agree that WeChat Pay Hong Kong may use his or her personal data for the purpose of this Promotion in accordance with WeChat Pay Hong Kong’s Privacy Policy available on https://hkwallet.moneydata.hk/hkwalletv3/agreement/agreement_privacy_policy.html",
+        "25. Citibank and WeChat Pay Hong Kong reserve the right to suspend, amend and/or terminate the offer(s) and change these terms and conditions without prior notice. Citibank and the Merchant accept no liability for such suspension, amendment and/or termination. For any enquiries about this Promotion, please contact WeChat Pay Hong Kong Customer Service Line at 3929",
+        "1666. 26.This Promotion is subject to other applicable terms and conditions of WeChat Pay Hong Kong, please contact WeChat Pay Hong Kong for details.",
+        "27. All matters and disputes are subject to the final decision of Citibank and WeChat Pay Hong Kong.",
+        "28. In the event of any discrepancy between the English and Chinese versions of these terms & conditions, the English version shall prevail. If there is any discrepancy between the promotional materials and these Terms and Conditions, these Terms and Conditions shall apply and prevail.",
+        "29. (a) These terms and conditions /referenced document/these materials provide information about, and access to accounts and financial services provided by Citibank (Hong Kong) Limited and/or Citibank, N.A. Hong Kong Branch in Hong Kong. It does not, and should not be construed as, an offer, invitation or solicitation of services to individuals residing outside of Hong Kong. These terms and conditions /referenced document/these materials are not intended for distribution to, or use by, any person in any country where such distribution or use would be contrary to local law or regulation, and none of the services or investments or offers referred to in These terms and conditions /referenced document/these  materials are available to persons resident in any country where the provision of such Promotion would be contrary to local law or regulation. In addition, the promotion is not offered (and will be cancelled or terminated without prior notice if already offered) to any party, which as determined by Citibank and/or the Merchant at its/their absolute discretion, is at any time subject to any applicable sanctions laws.",
+        "30. No person other than Citibank, WeChat Pay Hong Kong, and the eligible Cardholders will have any right under the Contracts (Rights of Third Parties) Ordinance to enforce or enjoy the benefit of these terms and conditions.",
+        "31. These terms and conditions are governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region.",
+        "Reward 1: Enjoy up to HKD$25 e-cash vouchers for the first-time card binding (“Binding Reward”) Terms and Conditions:",
+        "32. During the Promotion Period, Cardholders with an Eligible Card linked to their WeChat Pay HK account for the first time (“New Eligible Cardholders”) can collect Citi Credit Card Exclusive E-cash Vouchers (“E-cash Vouchers”) on the designated promotion page. The E-cash Vouchers are automatically redeemed when making a Single Eligible Transaction* (as defined below) of designated amount at Designated Merchants in Chinese Mainland (as defined in Clause 6) with Eligible Card (“Binding Reward”). Details as follows: Eligible cardholders who conduct a single eligible transaction of HK$50 or above will receive an E-cash voucher for use at designated merchants accepting WeChat Pay HK in Chinese Mainland. Cardholders using Citi Mastercard Credit Cards will receive a HK$25 E-cash voucher, while those using Other Citi Credit Cards will receive a HK$20 E-cash voucher. Each eligible cardholder is entitled to a maximum of one (1) voucher per offer during the Promotion Period. The E-cash Vouchers are valid solely at Designated Merchants accepting payments via WeChat Pay HK in Chinese Mainland, with the final merchant list determined by WeChat Pay Hong Kong at its sole and absolute discretion from time to time.",
+        "33. The HK$25 Citi Mastercard Exclusive E-cash Voucher and HK$20 Other Citi Credit Cards Exclusive E-cash Voucher will collectively be called the “E-cash Vouchers” hereunder.",
+        "34. In respect of the Binding Reward, New Eligible Cardholders refers strictly to cardholders who have never linked any Eligible Card to their WeChat Pay HK accounts before the start of the promotion period. Eligibility status is subject to the internal records of WeChat Pay Hong Kong.",
+        "35. The Binding Reward is subject to a daily quota limit and is offered on a first-come-first-served basis while quota lasts without prior notice. The available quota of the Binding Reward as recorded in the system of WeChat Pay Hong Kong shall prevail under any circumstances.",
+        "36. After New Eligible Cardholders collect the E-cash Vouchers under the Binding Reward via WeChat Pay HK during the Promotion Period, the E-cash Vouchers will be automatically distributed to the WeChat Pay HK accounts of the New Eligible Cardholders. New Eligible Cardholders can view the details of E-cash Vouchers in “My Rewards” under “Offers” of their WeChat Pay HK account.",
+        "37. New Eligible Cardholders can only claim one (1) HK$25 Citi Mastercard Exclusive E-cash Voucher or one (1) HK$20 Other Citi Credit Cards Exclusive E-cash Voucher during the promotional period .",
+        "38. Only one E-cash Voucher rewarded under this Promotion will be deducted automatically per transaction in applicable circumstances and will be shown on the payment completion page of WeChat Pay HK. Each E-cash Voucher is valid for seven (7) days from the date of issuance, for any E-cash Voucher that has not been used after the expiry date will automatically become invalid and will not be reissued. Citibank and WeChat Pay Hong Kong shall bear no liability if New Eligible Cardholders cannot perform a successful redemption of the E-cash Voucher and/or if the E-cash Voucher is lost due to any circumstances.",
+        "Reward 2: Instant discounts of up to HK$30 for purchases at designated Chinese Mainland merchants (“Instant Discount Reward”) Terms and Conditions:",
+        "39. During the Promotional Period, Cardholders with an Eligible Card linked to WeChat Pay HK (“Eligible Cardholders”) who spend a designated amount in a Single Eligible Transaction^ (as defined below) at Designated Merchants in Chinese Mainland (as defined in Clause 6), are automatically eligible to enjoy the instant discount offers (“Instant Discounts Reward”). Details are as follows: Eligible Cardholder who completes a Single Eligible Transaction of HK$30 or above at Designated Merchants accepting payments via WeChat Pay HK in Chinese Mainland is entitled to an Instant Discount of HK$5 for transactions made with an Eligible Citi Mastercard Credit Card, or HK$3 for transactions made with Other Eligible Citi Credit Cards. Each Eligible Cardholder is entitled to enjoy the discount a maximum of two (2) times per calendar month, up to a cumulative maximum of six (6) times during the Promotional Period. Designated merchants are subject to determination and modification by WeChat Pay Hong Kong at its sole and absolute discretion from time to time.",
+        "40. The HK$5 Instant Discount and HK$3 Instant Discount Reward will collectively be called “Instant Discount(s)” hereunder.",
+        "41. During the Promotion Period, each Eligible Cardholder can only enjoy the Instant Discount Reward with the linked Eligible Card a maximum of six (6) times, with a maximum of two (2) times per calendar month. i.e. a maximum of HK$30 in Instant Discounts for linked Citi Mastercard Credit Cards.",
+        "42. The Instant Discount Reward is subject to a weekly quota limit and remaining quotas will be released on every Friday during the Promotional Period. For the avoidance of doubt, the Instant Discount Reward is offered on a first-come-first-served basis while quota lasts, and without prior notice. The available quota of the Instant Discount Reward as recorded in the system of WeChat Pay Hong Kong shall prevail under any circumstances.",
+        "43. Eligible Cardholders are not required to redeem any offer in advance or to show any offers when enjoying the Instant Discount Reward, the Instant Discounts will be deducted automatically under applicable circumstances and will be shown as used on the payment completion page of WeChat Pay HK. Citibank and WeChat Pay Hong Kong shall bear no liability if any Eligible Cardholders cannot enjoy any Instant Discount under the Instant Discount Reward due to any circumstances."
+      ],
+      "anchorId": "hk-img-827839"
+    }
 ];
