@@ -18978,5 +18978,114 @@ window.OFFERS_DATA =
         "\"Citibank\" refers to Citibank Singapore Limited. The term \"Japan Foods Holding” refers to Japan Foods Holding Ltd."
       ],
       "anchorId": "sg-img-998197"
+    },
+    {
+      "offerNumber": 484,
+      "merchantId": "489864",
+      "merchantName": "Carlton City Hotel",
+      "validity": "13-Nov-26 To 25-Dec-26",
+      "validFrom": "2026-11-13",
+      "validTo": "2026-12-25",
+      "offerType": "Dining",
+      "offerSubType": "Hotel Dining",
+      "offerTagName": "NULL",
+      "offerName": "25% off Festive Takeaways",
+      "location": "Singapore",
+      "name": "May Lin Tan",
+      "offerImage": "offer_merc_image_489864.jpg",
+      "offerDescriptions": [
+        "25% off Festive Takeaways (Promo Code: CITI25OFF)",
+        "Order Website: https://carltoncityhotel.oddle.me/en_SG"
+      ],
+      "offerTermsAndConditions": [
+        "Promotion is valid from 13 November 2026 to 25 December 2026, both dates inclusive.",
+        "Payment must be charged using Citi Credit / Citibank Debit Card.",
+        "Order to be made via: https://carltoncityhotel.oddle.me/en_SG",
+        "Promo code must be applied upon checkout to enjoy offer",
+        "5 days in advance for orders is required.",
+        "For online order, the last order date is 21 December 2026.",
+        "For walk-in purchases, it is available till 25 December 2026 subject to availability.",
+        "Collection from 27 November 2026 to 25 December 2026",
+        "Free delivery for orders above S$500 nett.",
+        "For orders below $500, a delivery charge of S$55 nett applies per location.",
+        "Citibank's and Carlton City Hotel’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Carlton City Hotel.",
+        "Citibank and Carlton City Hotel reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+        "\"Citibank\" refers to Citibank Singapore Limited. The term “Carlton City Hotel” refers to Carlton City Hotel (Singapore) Pte.Ltd."
+      ],
+      "anchorId": "sg-img-489864"
+    },
+    {
+      "offerNumber": 485,
+      "merchantId": "121581",
+      "merchantName": "Plate, Carlton City Hotel",
+      "validity": "13-Nov-26 To 01-Jan-27",
+      "validFrom": "2026-11-13",
+      "validTo": "2027-01-01",
+      "offerType": "Dining",
+      "offerSubType": "Hotel Dining",
+      "offerTagName": "NULL",
+      "offerName": "1 for 1 Festive Lunch & Dinner Buffet",
+      "location": "Singapore",
+      "name": "May Lin Tan",
+      "offerImage": "offer_merc_image_121581.jpg",
+      "offerDescriptions": [
+        "1 for 1 Festive Lunch & Dinner Buffet",
+        "For dine-in from 1 Dec 2026 to 1 Jan 2027",
+        "Prepaid reservations required on 24, 25, 31 Dec 2026 & 1 Jan 2027",
+        "For reservations: +65 6632 8922 or email dine@carltoncity.sg"
+      ],
+      "offerTermsAndConditions": [
+        "Valid for reservation booking from 13 Nov 2026. For dine in dates from 1 Dec – 31 Dec 2026 & 1 Jan 2027.",
+        "Prepayment is required for reservation on 24, 25, 31 Dec 2026 & 1 Jan 2027",
+        "Promo applies to Lunch & Dinner Buffet from 1 - 31 Dec 2026 & 1 Jan 2027.",
+        "Payment must be charged using Citi Credit or Citibank Debit Card.",
+        "Offer is not valid on free flow beer and house pour wine package",
+        "For reservations and enquiries, please call +65 6632 8922 or email dine@carltoncity.sg",
+        "Pre-payment must be made to confirm reservation",
+        "Reservation is subject to availability.",
+        "Promotion is not valid on free flow beer and housepour wine package",
+        "Promotion is not valid in conjunction with any other promotions, discounts or vouchers, unless otherwise stated",
+        "Carlton City Hotel reserves the right to amend its menu without prior notice",
+        "Citibank's and Carlton City Hotel’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with Carlton City Hotel.",
+        "Citibank and Carlton City Hotel reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+        "\"Citibank\" refers to Citibank Singapore Limited. The term “Carlton City Hotel” and “Plate” refers to Carlton City Hotel (Singapore) Pte. Ltd"
+      ],
+      "anchorId": "sg-img-121581"
+    },
+    {
+      "offerNumber": 486,
+      "merchantId": "399264",
+      "merchantName": "Seasonal Tastes, The Westin Singapore",
+      "validity": "30-Oct-26 To 14-Dec-26",
+      "validFrom": "2026-10-30",
+      "validTo": "2026-12-14",
+      "offerType": "Dining",
+      "offerSubType": "Hotel Dining",
+      "offerTagName": "NULL",
+      "offerName": "15% off Festive Lunch & Dinner Buffets",
+      "location": "Singapore",
+      "name": "May Lin Tan",
+      "offerImage": "offer_merc_image_399264.jpg",
+      "offerDescriptions": [
+        "15% off Festive Lunch & Dinner Buffets",
+        "For Dine-in on 24, 25 & 31 Dec 2026. Payment required by 14 Dec 2026",
+        "For reservations, please visit https://www.seasonaltastessingapore.com/"
+      ],
+      "offerTermsAndConditions": [
+        "Reservations start from 30 Oct 2026.",
+        "Valid for dine-in only on 24 December (Dinner – 6pm to 10pm), 25 December 2025 (Lunch – 12pm to 2.30pm), 31 December 2026 (Dinner – 6pm to 10pm).",
+        "Reservation and full prepayment required by 14 December 2026.",
+        "Payment must be charged using Citi Credit / Citibank Debit Card.",
+        "Not valid in conjunction with other offers, promos, and discounts.",
+        "Advance reservation required at https://www.seasonaltastessingapore.com/",
+        "Maximum 10 pax per reservation.",
+        "Citibank's and The Westin Singapore’s decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+        "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the product and/or services shall be resolved directly with The Westin Singapore.",
+        "Citibank and The Westin reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion.",
+        "\"Citibank\" refers to Citibank Singapore Limited. The term “The Westin Singapore” and \"Seasonal Tastes” refers to Daisho Development Singapore Pte Ltd c/o The Westin Singapore."
+      ],
+      "anchorId": "sg-img-399264"
     }
 ]
