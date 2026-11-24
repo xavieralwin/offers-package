@@ -20115,7 +20115,9 @@ window.OFFERS_DATA =
         ],
         "anchorId": "sg-img-117258"
     },
-    {
+    /*
+    // Temporarily hidden offers (voco Orchard Singapore - Offers 514 to 517)
+{
         "offerNumber": 514,
         "merchantId": "314935",
         "merchantName": "Opus Bar & Grill, voco Orchard Singapore",
@@ -20266,6 +20268,7 @@ window.OFFERS_DATA =
         ],
         "anchorId": "sg-img-290235"
     },
+    */
     {
         "offerNumber": 518,
         "merchantId": "797198",
@@ -20684,5 +20687,99 @@ window.OFFERS_DATA =
             "\"Citibank\" refers to Citibank Singapore Limited. The terms “Sofitel Singapore City Centre” and “1864” refer to Sofitel Singapore City Centre."
         ],
         "anchorId": "sg-img-804771"
+    },
+    {
+        "offerNumber": 529,
+        "merchantId": "154423",
+        "merchantName": "The Mastercard Collection: Dining",
+        "validity": "01-Oct-26 To 30-Sep-27",
+        "validFrom": "2026-10-01",
+        "validTo": "2027-09-30",
+        "offerType": "Travel",
+        "offerSubType": "Hotels",
+        "offerTagName": "NULL",
+        "offerName": "Unlock priority reservations at award-winning restaurants worldwide, from Asia's top dining destinations to iconic tables featured in Michelin, Black Pearl and Asia's 50 Best Restaurant guides",
+        "location": "Singapore",
+        "name": "Dylan Xie",
+        "offerImage": "offer_merc_image_154423.jpg",
+        "offerDescriptions": [
+            "The Mastercard Collection is a curated suite of elevated benefits spanning dining, travel and entertainment designed exclusively for World Legend, World Elite and World cardholders. It is Mastercard's most premium expression of access, crafted for those who expect more from every experience.",
+            "The Mastercard Collection: Dining is your gateway to award-winning restaurants around the world. From celebrated dining destinations across Asia to iconic tables globally, unlock priority reservations at the most sought-after tables – dining credits at participating restaurants.",
+            "Benefit details:",
+            "Enjoy instant reservations at top-tier dining establishments across 15 Asia Pacific destinations such as Australia, China, Hong Kong, India, Indonesia, Japan, Malaysia, Macao, New Zealand, Philippines, Singapore, South Korea, Taiwan, Thailand and Vietnam.",
+            "Plus, enjoy exclusive additional dining privileges based on your Mastercard card tier:",
+            "World Legend Mastercard:",
+            "Unlock the highest level of dining value with your choice of up to US$200 off min. spend US$500, or up to US$100 off min. spend US$350 (limit of once per calendar quarter)",
+            "Alternatively, enjoy unlimited 10–15% off at participating restaurants.",
+            "World Elite Mastercard:",
+            "Enjoy up to US$100 off with a minimum spend of US$350 (limit of once per calendar quarter)",
+            "Alternatively, enjoy unlimited 10–15% off at participating restaurants.",
+            "World Mastercard:",
+            "Enjoy unlimited 10–15% off at participating restaurants.",
+            "Visit https://partner.diningcity.asia/home?program=themastercardcollection to explore participating restaurants and make your reservation."
+        ],
+        "offerTermsAndConditions": [
+            "Eligible Cards: This program is available to eligible Mastercard World Legend Mastercard™, World Elite and/or World Mastercard Consumer cards issued globally. Benefits are only available at participating restaurants listed on the booking platform: https://partner.diningcity.asia/home?program=themastercardcollection",
+            "How to Qualify: To enjoy a benefit, cardholders will need to: Make a reservation through the designated booking platform; Complete the reservation at least 24 hours before the intended dining time, subject to restaurant availability; Provide a valid eligible Mastercard card number during booking; and Pay the final bill using the same eligible Mastercard card used during reservation.",
+            "Mastercard reserves the right to request additional verification to confirm eligibility and prevent misuse of benefits. Mastercard does not control restaurant availability, and any reservation will follow restaurant policies.",
+            "Available Benefits: Benefits available to cardholders may vary by card type and participating restaurant.",
+            "Benefit 1: Up to USD200 off total bill with minimum spend (World Legend Mastercard™ only).",
+            "Benefit 2: Up to USD100 off total bill with minimum spend (World Legend Mastercard™ and World Elite Mastercard).",
+            "Benefit 3: 10%–15% discount on the subtotal bill (before tax and/or service charge) with no minimum spend (World Legend Mastercard™, World Elite, and World Mastercard)",
+            "Benefit 4: Restaurant reservation without dining credit or discount (World Legend Mastercard™, World Elite, and World Mastercard).",
+            "The benefit chosen during booking is final and forms part of the reservation. Benefits cannot be changed, upgraded, downgraded, transferred, or substituted after the reservation has been confirmed.",
+            "Benefit Usage Limits: Benefits 1 and 2 share a combined usage limit of one redemption per calendar quarter, regardless of restaurant. Cardholders may redeem either Benefit 1 or Benefit 2 once per quarter, but not both. There is no usage limit for Benefit 3 and 4.",
+            "Calendar quarters are defined as: Q1: January 1 – March 31, Q2: April 1 – June 30, Q3: July 1 – September 30, Q4: October 1 – December 31.",
+            "There are a limited number of redemptions available. Offers are fulfilled on a first-come-first-served basis.",
+            "Making a Reservation: All reservations must be made through the designated booking platform at least 24 hours before the requested dining time and are subject to restaurant availability. Walk-in requests are not eligible for program benefits.",
+            "Restaurant Availability: Participating restaurants determine available seating inventory, operating hours, and reservation availability under this program. Availability may change without notice. Availability is determined solely by the restaurant.",
+            "Blackout Dates: Benefits may not be available on public holidays, festive periods, special occasions, private events, restaurant buy-outs, or other dates determined by the participating restaurant.",
+            "Reservation Confirmation: A reservation is confirmed only when a confirmation email and/or SMS has been successfully issued through the booking platform. Cardholders should retain the confirmation for verification at the restaurant. Restaurants are independently operated outside the control of Mastercard and restaurants reserve the right to cancel, amend, or change reservations.",
+            "Where a restaurant requires a deposit, payment hold, or card guarantee, the restaurant will contact cardholders directly to arrange it and this is not a booking platform transaction. Cardholders may be required to use the same eligible Mastercard card used during reservation for such requests.",
+            "Non-Transferability: Reservations and benefits are personal to the eligible cardholder and may not be sold, assigned, transferred, exchanged for cash, or converted into any other benefit.",
+            "Other terms and conditions apply, refer to the attached PDF (The Mastercard Collection-Dining T&Cs) for details."
+        ],
+        "anchorId": "sg-img-154423"
+    },
+    {
+        "offerNumber": 530,
+        "merchantId": "894743",
+        "merchantName": "Accor Properties in Great China",
+        "validity": "10-Nov-26 To 31-Dec-27",
+        "validFrom": "2026-11-10",
+        "validTo": "2027-12-31",
+        "offerType": "Travel",
+        "offerSubType": "Hotels",
+        "offerTagName": "NULL",
+        "offerName": "20% off Exclusive Stays Across Greater China with Mastercard",
+        "location": "Singapore",
+        "name": "Dylan Xie",
+        "offerImage": "offer_merc_image_894743.jpg",
+        "offerDescriptions": [
+            "ALL Accor members holding a Mastercard can enjoy 15% off for bookings of 1 night, or 20% off for 2 consecutive nights or more at any participating Accor hotels throughout Greater China.",
+            "To access this exclusive privilege, please register as an ALL Accor member in advance and book via Accor's official channels. Enter promo code 'MASTER2' when booking one night, or 'MASTER3' when booking two or more consecutive nights to enjoy the discount.",
+            "Participating hotels: This offer applies to participating hotels in Mainland China, Hong Kong SAR and Macau SAR, including Raffles (except Macau), Fairmont, Sofitel, Mondrian, MGallery Collection, Swissôtel, Swissôtel Living, Pullman, Grand Mercure, Novotel, Mövenpick and Handwritten Collection.",
+            "For reservations with this offer, a valid Mastercard card must be presented at the front desk upon check-in, and payment must be made at the hotel.",
+            "To redeem this offer, please visit: https://all.accor.com/a/en/offers/greater-china/hotel-offers/Mastercard-offer.html"
+        ],
+        "offerTermsAndConditions": [
+            "Promotion Period: 10 November 2026 to 31 December 2027.",
+            "Offer Details: ALL Accor members holding a valid MasterCard (\"Eligible Card Holder\") can enjoy 15% off for bookings of 1 night, or 20% off for 2 consecutive nights or more at participating Accor hotels in Mainland China, Hong Kong SAR and Macau SAR (\"Offer\").",
+            "This Offer is applicable to Eligible Cardholder only. Guests must present a valid Mastercard to the front desk staff upon check-in. Participating Hotels can charge the guest at the flexible room rates or cancel the booking if the cardholders failed to present the Promotion Cards.",
+            "To enjoy this Offer, guests must first register as members of ALL Accor. The terms and conditions of ALL Accor membership apply to this offer.",
+            "A minimum stay of one (1) night is required per booking.",
+            "Enter promo code 'MASTER2' when booking one night, or 'MASTER3' when booking two or more consecutive nights to enjoy the Offer.",
+            "Bookings must be made via the Accor official website, official APP, or customer reservation center to enjoy this exclusive privilege. Bookings made through Online Travel Agencies (OTAs) or other non-official channels are not eligible for this offer.",
+            "This Offer is applicable at participating hotels in Mainland China, Hong Kong SAR, and Macau SAR. Applicable brands include Raffles (excluding Macau), Fairmont, Sofitel, Mondrian, MGallery Collection, Swissôtel, Swissôtel Living, Pullman, Grand Mercure, Novotel, Mövenpick, and Handwritten Collection.",
+            "The Offer is subject to availability and cannot be combined with other active promotions, benefits, or privileges. It is not applicable to group bookings.",
+            "The list of participating hotels is subject to change without prior notice.",
+            "Blackout dates may apply to certain properties. Please refer to the actual booking page for real-time availability and details.",
+            "The Offer is subject to hotel occupancy. Each hotel's standard terms and conditions for sales apply. Please visit the websites of the participating hotels for details.",
+            "Blackout dates, early departure fees, and length of stay, deposit and cancellation restrictions may apply and may vary by hotel. The specific terms and conditions are subject to the hotel's reservation policy.",
+            "Unless otherwise specified, rates are valid for single/double occupancy and exclusive all tax, incidental charges, gratuities and resort fees where applicable.",
+            "Customer Support: For reservations or inquiries, please contact the Accor Reservation Center: (+86) 400 818 2688, ALL Accor Customer Care: (+86) 4001 33 55 33.",
+            "The Offer is not transferable or redeemable for cash, or used in conjunction with other offers, promotions, loyalty card, vouchers or privileges, unless otherwise stated."
+        ],
+        "anchorId": "sg-img-894743"
     }
 ]

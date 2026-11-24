@@ -57,10 +57,6 @@ https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_213734.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_119909.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_117258.jpg
-https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_314935.jpg
-https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_238174.jpg
-https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_747819.jpg
-https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_290235.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_797198.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_557507.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_719476.jpg
@@ -72,3 +68,9 @@ https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_103587.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_146692.jpg
 https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_804771.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_314935.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_238174.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_747819.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_290235.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_154423.jpg
+https://www.citiworldprivileges.com/data/images/offer_images/272x195/offer_merc_image_894743.jpg
