@@ -837,6 +837,12 @@
 
     descriptions.forEach(function (raw) {
       const text = String(raw).trim();
+      const headingBlock = text.match(/^\[\[heading\]\]((?:(?!\[\[\/?heading\]\])[\s\S])+)\[\[\/heading\]\]$/i);
+      if (headingBlock) {
+        flush();
+        addText(parent, 'h4', descriptionHeadingClass(headingBlock[1].trim()), headingBlock[1].trim());
+        return;
+      }
       if (isDescriptionHeading(text)) {
         flush();
         addText(parent, 'h4', descriptionHeadingClass(text), text);
@@ -909,7 +915,7 @@
     list.className = className || ('offer-modal__description-list' + (numbered ? ' offer-modal__description-list--numbered' : ''));
     items.forEach(function (item) {
       const li = document.createElement('li');
-      li.textContent = String(item).replace(/^\s*\d{1,2}[.)]\s+/, '');
+      appendHighlightedText(li, String(item).replace(/^\s*\d{1,2}[.)]\s+/, ''), true);
       list.appendChild(li);
     });
     parent.appendChild(list);
@@ -985,10 +991,33 @@
     if (row.childElementCount) parent.appendChild(row);
   }
 
+  function appendHighlightedText(node, value, highlightWholeNode) {
+    const raw = value == null ? '' : String(value);
+    const fullMatch = highlightWholeNode && raw.trim().match(/^\[\[highlight\]\]((?:(?!\[\[\/?highlight\]\])[\s\S])+)\[\[\/highlight\]\]$/i);
+    if (fullMatch) {
+      node.classList.add('offer-text-highlight');
+      node.textContent = fullMatch[1];
+      return;
+    }
+    const parts = raw.split(/(\[\[highlight\]\][\s\S]*?\[\[\/highlight\]\])/gi);
+    parts.forEach(function (part) {
+      if (!part) return;
+      const match = part.match(/^\[\[highlight\]\]([\s\S]*?)\[\[\/highlight\]\]$/i);
+      if (match) {
+        const span = document.createElement('span');
+        span.className = 'offer-text-highlight';
+        span.textContent = match[1];
+        node.appendChild(span);
+      } else {
+        node.appendChild(document.createTextNode(part));
+      }
+    });
+  }
+
   function addRichText(parent, tagName, className, value) {
     const node = document.createElement(tagName);
     if (className) node.className = className;
-    node.textContent = value == null ? '' : String(value);
+    appendHighlightedText(node, value);
     parent.appendChild(node);
     return node;
   }
@@ -1029,7 +1058,7 @@
     list.id = 'offerModalTermsList';
     terms.forEach(function (term, index) {
       const li = document.createElement('li');
-      li.textContent = term;
+      appendHighlightedText(li, term, true);
       if (index >= 5) li.hidden = true;
       list.appendChild(li);
     });

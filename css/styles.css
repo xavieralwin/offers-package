@@ -569,3 +569,4 @@ html[lang="zh-HK"] .offer-modal__section-title { letter-spacing: 0; line-height:
 
 .offer-modal__description-heading { margin: 12px 0 4px; color: var(--color-primary); font-size: var(--fs-16); font-weight: var(--fw-700); }
 .offer-modal__description-heading--black { color: #1B2636; }
+.offer-text-highlight { color: var(--color-primary); font-weight: var(--fw-700); }

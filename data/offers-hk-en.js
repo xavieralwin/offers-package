@@ -18976,11 +18976,11 @@ window.HK_OFFERS_EN =
           "iii. 20 stamps to redeem HK$150 S Coupon",
           "Over the 4 phases, Members can collect up to 148 stamps and earn up to HK$1,040 in rewards! S Coupons are limited and available on a first-come, first-served basis.",
           "But that’s not all—every time you redeem an S Coupon, you’ll receive 1 token to play the Mini Game for that phase. Each member can earn up to 3 tokens per phase, and each token gives you a chance to win up to 10 Bonus Points. That’s a maximum of 120 Bonus Points available over the 4 phases!",
-          "► Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000",
+          "Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000",
           "For our most enthusiastic and loyal shoppers, there are even bigger prizes to grab. During the promotion period, members with the highest accumulated spending on their Citi Credit Card can win the “Top Accumulated Spender Rewards” valued at over HK$320,000, including GEELY EX2 All-electric Urban SUV, Lukfook Jewellery Coupons, Studio A & DG Lifestyle Store Shopping Vouchers, Banquet at Lantern Restaurant and S Coupons!",
-          "Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):",
+          "[[highlight]]Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):[[/highlight]]",
           "Top 10 Spenders will receive HK$1,000 S Coupons",
-          "Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):",
+          "[[highlight]]Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):[[/highlight]]",
           "Top 1 Spender to receive GEELY EX2 All-electric Urban SUV (Valued at HK$189,800*)",
           "Top Spender Ranked 2 to receive HK$50,000 Lukfook Jewellery Coupons",
           "Top Spender Ranked 3-5 to receive HK$10,000 Studio A & DG Lifestyle Store Shopping Vouchers",
@@ -19165,12 +19165,16 @@ window.HK_OFFERS_EN =
       "offerDescriptions": [
         "Citi Mastercard Credit Card:",
         "Citi Mastercard credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
-        "► Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
-        "► Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
+        "Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
         "Citi Visa / UnionPay Credit Card:",
         "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
-        "► Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
-        "► Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+        "Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
+        "[[heading]]►How to link a card?[[/heading]]",
+        "1. Download the WeChat Pay HK app",
+        "2. Go to \"Me\" > \"Payment & Services\"",
+        "3. Tap \"Bank Cards\" > \"Add Bank Card\" to complete the linking process"
       ],
       "offerDescriptionBlocks": [
         {
@@ -19197,10 +19201,22 @@ window.HK_OFFERS_EN =
           "text": "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:"
         },
         {
-          "type": "bullets",
+          "type": "numbers",
           "items": [
             "Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
             "Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "►How to link a card?"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Download the WeChat Pay HK app",
+            "Go to \"Me\" > \"Payment & Services\"",
+            "Tap \"Bank Cards\" > \"Add Bank Card\" to complete the linking process"
           ]
         }
       ],
