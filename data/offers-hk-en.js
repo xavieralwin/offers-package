@@ -18976,11 +18976,11 @@ window.HK_OFFERS_EN =
           "iii. 20 stamps to redeem HK$150 S Coupon",
           "Over the 4 phases, Members can collect up to 148 stamps and earn up to HK$1,040 in rewards! S Coupons are limited and available on a first-come, first-served basis.",
           "But that’s not all—every time you redeem an S Coupon, you’ll receive 1 token to play the Mini Game for that phase. Each member can earn up to 3 tokens per phase, and each token gives you a chance to win up to 10 Bonus Points. That’s a maximum of 120 Bonus Points available over the 4 phases!",
-          "► Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000",
+          "Top Accumulated Spender Rewards: Claim Your Rewards Worth more than HK$320,000",
           "For our most enthusiastic and loyal shoppers, there are even bigger prizes to grab. During the promotion period, members with the highest accumulated spending on their Citi Credit Card can win the “Top Accumulated Spender Rewards” valued at over HK$320,000, including GEELY EX2 All-electric Urban SUV, Lukfook Jewellery Coupons, Studio A & DG Lifestyle Store Shopping Vouchers, Banquet at Lantern Restaurant and S Coupons!",
-          "Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):",
+          "[[highlight]]Round 1 Top Accumulated Spender Reward (Spending Period: January 26 to June 30 2026):[[/highlight]]",
           "Top 10 Spenders will receive HK$1,000 S Coupons",
-          "Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):",
+          "[[highlight]]Round 2 Top Accumulated Spender Reward (Spending Period: January 26 to December 31 2026):[[/highlight]]",
           "Top 1 Spender to receive GEELY EX2 All-electric Urban SUV (Valued at HK$189,800*)",
           "Top Spender Ranked 2 to receive HK$50,000 Lukfook Jewellery Coupons",
           "Top Spender Ranked 3-5 to receive HK$10,000 Studio A & DG Lifestyle Store Shopping Vouchers",
@@ -19165,12 +19165,16 @@ window.HK_OFFERS_EN =
       "offerDescriptions": [
         "Citi Mastercard Credit Card:",
         "Citi Mastercard credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
-        "► Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
-        "► Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
+        "Card Binding Reward: Bind your card for the first time to receive a HK$25 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "Spending Reward: Enjoy an instant discount of HK$5 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
         "Citi Visa / UnionPay Credit Card:",
         "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:",
-        "► Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
-        "► Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+        "Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
+        "Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period.",
+        "[[heading]]►How to link a card?[[/heading]]",
+        "1. Download the WeChat Pay HK app",
+        "2. Go to \"Me\" > \"Payment & Services\"",
+        "3. Tap \"Bank Cards\" > \"Add Bank Card\" to complete the linking process"
       ],
       "offerDescriptionBlocks": [
         {
@@ -19197,10 +19201,22 @@ window.HK_OFFERS_EN =
           "text": "Citi Visa / UnionPay credit card cardholders who successfully bind an eligible credit card to the WeChat Pay HK app can enjoy the following offers:"
         },
         {
-          "type": "bullets",
+          "type": "numbers",
           "items": [
             "Card Binding Reward: Bind your card for the first time to receive a HK$20 coupon which can be applied directly to subsequent eligible single transactions of HK$50 or more.",
             "Spending Reward: Enjoy an instant discount of HK$3 upon making a single eligible transaction of HK$30 or more X 6 times during the promotion period."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "►How to link a card?"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Download the WeChat Pay HK app",
+            "Go to \"Me\" > \"Payment & Services\"",
+            "Tap \"Bank Cards\" > \"Add Bank Card\" to complete the linking process"
           ]
         }
       ],
@@ -19211,8 +19227,8 @@ window.HK_OFFERS_EN =
         "3. Unless otherwise specified, rewards under this Promotion are only applicable to cardholders (\"Cardholders\") of Citi Mastercard Credit Cards and other Citi Credit Cards issued by Citibank in Hong Kong (“Eligible Cards”).",
         "4. Cardholders are required to settle payment of their Eligible Card(s) in full during the Promotion Period to enjoy Binding Reward (as defined in Clause 32) and Instant Discount Reward (as defined in Clause 39) (“Rewards”). For the avoidance of doubt, the Rewards are not applicable to the following types of transactions: any transactions that are subject to cancellation, charge-back, return of goods and/or refund; any autopay, unposted transactions or any other payment transactions as specified by Citibank from time to time; reloads of e-Wallet or Octopus Automatic Add-Value Service; or any other type of transaction as determined by Citibank from time to time.",
         "5. “Eligible Transaction(s)” refers to the designated posted Chinese Mainland offline and online transaction(s) made in Hong Kong Dollars (excluding money transfer, red packet transfer, top-up for any stored value facilities, payments via Utilities and Telecom Payment, charity donation and cross-border remittance) with an Eligible Card via WeChat Pay HK during the Promotion Period.",
-        "6. Designated Merchants refer to Chinese Mainland merchants that accept payments via WeChat Pay HK (merchant list to be determined by WeChat Pay Hong Kong at its sole and absolute discretion and updated from time to time) (“Designated Merchants”). For the avoidance of doubt, all cross-border transaction via WeChat Pay HK will be automatically settled in Hong Kong Dollars. For any enquiries about Designated Merchants, please contact WeChat Pay Hong Kong Customer Service Line at 3929",
-        "1666. 7.“WeChat Pay HK” is a mobile-based stored value facility, managed and operated by WeChat Pay Hong Kong.",
+        "6. Designated Merchants refer to Chinese Mainland merchants that accept payments via WeChat Pay HK (merchant list to be determined by WeChat Pay Hong Kong at its sole and absolute discretion and updated from time to time) (“Designated Merchants”). For the avoidance of doubt, all cross-border transaction via WeChat Pay HK will be automatically settled in Hong Kong Dollars. For any enquiries about Designated Merchants, please contact WeChat Pay Hong Kong Customer Service Line at 3929 1666.",
+        "7.“WeChat Pay HK” is a mobile-based stored value facility, managed and operated by WeChat Pay Hong Kong.",
         "8. Citibank will determine the eligibility of Cardholders to participate in this Promotion, as well as the transactions based on Citibank’s internal records.",
         "9. In the event of any fraud/abuse/reversal or cancellation of transactions in respect of which the Rewards were awarded, Citibank reserves the right to deduct from the Cardholder’s Eligible Card account(s) or (as the case may be) bank accounts the equivalent amount of the Rewards without prior notice.",
         "10. If a Cardholder breaches these terms and conditions or engages in illegal, fraudulent, or abusive behavior to obtain and/or use the rewards hereunder, or if any Cardholder engages in behavior that affects the fair participation of  the other participants in this Promotion, Citibank and/or WeChat Pay Hong Kong reserves the rights to immediately forfeit such Cardholder’s eligibility of participating in this Promotion and/or obtaining (if obtained) and/or the use of the relevant Rewards without prior notice.",
@@ -19230,8 +19246,8 @@ window.HK_OFFERS_EN =
         "22. Cardholders shall be deemed to have accepted any risks and liabilities in whatsoever nature associated with the services / auxiliary services supplied by Citibank and WeChat Pay Hong Kong, and shall waive any claim against by Citibank and WeChat Pay Hong Kong in relation to such risks and liabilities when Cardholders make the relevant transactions.",
         "23. Citibank and WeChat Pay Hong Kong will carry out this Promotion in accordance with applicable laws in Hong Kong. In the event this Promotion is stopped by government agency’s orders or must be suspended due to server network attack or system failure or any circumstances beyond Citibank’s and WeChat Pay Hong Kong’s control, such event shall be regarded as a force majeure event, and Citibank and WeChat Pay Hong Kong shall not be liable for any damage, loss or dispute therein.",
         "24. By participating in this Promotion, the Cardholders accept and agree to be bound by the terms and conditions of this Promotion, and agree that WeChat Pay Hong Kong may use his or her personal data for the purpose of this Promotion in accordance with WeChat Pay Hong Kong’s Privacy Policy available on https://hkwallet.moneydata.hk/hkwalletv3/agreement/agreement_privacy_policy.html",
-        "25. Citibank and WeChat Pay Hong Kong reserve the right to suspend, amend and/or terminate the offer(s) and change these terms and conditions without prior notice. Citibank and the Merchant accept no liability for such suspension, amendment and/or termination. For any enquiries about this Promotion, please contact WeChat Pay Hong Kong Customer Service Line at 3929",
-        "1666. 26.This Promotion is subject to other applicable terms and conditions of WeChat Pay Hong Kong, please contact WeChat Pay Hong Kong for details.",
+        "25. Citibank and WeChat Pay Hong Kong reserve the right to suspend, amend and/or terminate the offer(s) and change these terms and conditions without prior notice. Citibank and the Merchant accept no liability for such suspension, amendment and/or termination. For any enquiries about this Promotion, please contact WeChat Pay Hong Kong Customer Service Line at 3929 1666.",
+        "26. This Promotion is subject to other applicable terms and conditions of WeChat Pay Hong Kong, please contact WeChat Pay Hong Kong for details.",
         "27. All matters and disputes are subject to the final decision of Citibank and WeChat Pay Hong Kong.",
         "28. In the event of any discrepancy between the English and Chinese versions of these terms & conditions, the English version shall prevail. If there is any discrepancy between the promotional materials and these Terms and Conditions, these Terms and Conditions shall apply and prevail.",
         "29. (a) These terms and conditions /referenced document/these materials provide information about, and access to accounts and financial services provided by Citibank (Hong Kong) Limited and/or Citibank, N.A. Hong Kong Branch in Hong Kong. It does not, and should not be construed as, an offer, invitation or solicitation of services to individuals residing outside of Hong Kong. These terms and conditions /referenced document/these materials are not intended for distribution to, or use by, any person in any country where such distribution or use would be contrary to local law or regulation, and none of the services or investments or offers referred to in These terms and conditions /referenced document/these  materials are available to persons resident in any country where the provision of such Promotion would be contrary to local law or regulation. In addition, the promotion is not offered (and will be cancelled or terminated without prior notice if already offered) to any party, which as determined by Citibank and/or the Merchant at its/their absolute discretion, is at any time subject to any applicable sanctions laws.",
