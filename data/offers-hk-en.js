@@ -19269,5 +19269,62 @@ window.HK_OFFERS_EN =
         "43. Eligible Cardholders are not required to redeem any offer in advance or to show any offers when enjoying the Instant Discount Reward, the Instant Discounts will be deducted automatically under applicable circumstances and will be shown as used on the payment completion page of WeChat Pay HK. Citibank and WeChat Pay Hong Kong shall bear no liability if any Eligible Cardholders cannot enjoy any Instant Discount under the Instant Discount Reward due to any circumstances."
       ],
       "anchorId": "hk-img-827839"
+    },
+    {
+        "offerNumber": 432,
+        "merchantId": "387264",
+        "merchantName": "iHerb",
+        "validity": "27-Nov-26 To 31-Dec-26",
+        "validFrom": "2026-11-27",
+        "validTo": "2026-12-31",
+        "offerType": "Shopping",
+        "offerSubType": "Health and Beauty",
+        "offerTagName": "NULL",
+        "offerName": "Up to 30% off",
+        "location": "Hong Kong",
+        "name": "Chloe Cheng / hc21718",
+        "offerImage": "offer_merc_image_387264.jpg",
+        "offerDescriptions": [
+            "Use Citi Credit Card, Debit Card or Commercial Card to enjoy the following offers by entering the designated promo code at checkout page at iHerb official website or its mobile app:",
+            "(1) Enter \"IHERBCITI26\" to enjoy a 15% off upon spending HK$300 or USD40 / a 25% off upon spending HK$500 or USD60",
+            "(2) Enter \"CITI30\" to enjoy a 30% off upon any spending for first-time registered iHerb members"
+        ],
+        "offerDescriptionBlocks": [
+            {
+                "type": "paragraph",
+                "text": "Use Citi Credit Card, Debit Card or Commercial Card to enjoy the following offers by entering the designated promo code at checkout page at iHerb official website or its mobile app:"
+            },
+            {
+                "type": "bullets",
+                "items": [
+                    "(1) Enter \"IHERBCITI26\" to enjoy a 15% off upon spending HK$300 or USD40 / a 25% off upon spending HK$500 or USD60",
+                    "(2) Enter \"CITI30\" to enjoy a 30% off upon any spending for first-time registered iHerb members"
+                ]
+            }
+        ],
+        "offerTermsAndConditions": [
+            "Terms and Conditions:",
+            "1. Unless otherwise specified, the Offers (as defined in Clause 13 and 14) promotion period is valid from now to December 31, 2026 (both days inclusive) (“Promotion Period”).",
+            "2. Unless otherwise specified, the Offer applies to Cardholders of Citi Credit Cards, Debit Cards and Commercial cards issued by Citibank (Hong Kong) Limited (“Citibank”)(“Eligible Cards”) (“Cardholders”). IHerb, LLC (“Merchant”) may reject an Eligible Card if their payment system cannot handle some of the Eligible Card type, please contact the Merchant for details.",
+            "3. Cardholders are required to settle payment in full of Eligible Cards during the Promotion Period to enjoy the Offer. For the avoidance of doubt, the Offers are not applicable to the following types of transactions: any transactions that are subject to cancellation, charge-back, return of goods and/or refund; any autopay, unposted transactions or any other payment transactions as specified by Citibank from time to time; reloads of e-Wallet or Octopus Automatic Add-Value Service; or any other type of transaction as determined by Citibank from time to time.",
+            "4. Cardholders are required to state their intention to enjoy the Offer before ordering and settle the whole payment by Eligible Cards to enjoy the Offer.",
+            "5. Unless otherwise specified, the Offer cannot be used in conjunction with other special promotions, discounts, or promotional coupons, nor be transferred or exchanged for cash or other offers.",
+            "6. Availability of the Offer is subject to offer or service availability, account status checking and final acceptance by Citibank and the Merchant’s absolute discretion. Photos, product specifications and prices are for reference only.",
+            "7. Citibank shall not be responsible for any matters in relation to the related products or services provided by the Merchant. The Merchant is solely responsible for all obligations and liabilities relating to such products or services and all auxiliary services.",
+            "8. Citibank and the Merchant reserve the right to amend the terms and conditions without prior notice.",
+            "9. All matters and disputes are subject to the final decision of Citibank and the Merchant.",
+            "10. In the event of any discrepancy between the English and Chinese versions of these terms and conditions, the English version shall prevail.",
+            "11. Other terms and conditions apply, please inquire about the details with the Merchant.",
+            "12. The promotions, products and services mentioned in the referenced document are not offered to individuals residing in the European Union, European Economic Area, Switzerland, Guernsey and Jersey, Monaco, San Marino, Vatican, The Isle of Man, the UK, Brazil, New Zealand, Jamaica, Ecuador or Sri Lanka. The referenced document is not, and should not be construed as, an offer, invitation or solicitation to buy or sell any of the promotions, products and services mentioned therein to such individuals.",
+            "“Citi Credit, Debit and Commercial Cards: Up to 30% off discount upon any spending at iHerb\" Terms and Conditions:",
+            "13. During the Promotion Period, Cardholders of Eligible Cards are entitled to a 15% off upon a minimum spending of HK$300 or USD40 or a 25% off upon a minimum spending of HK$500 or USD60 when settling the payment in full of Eligible Cards and must successfully enter the designated promotion code “IHERBCITI26” (“Promo Code”) at the checkout page. (“Offer 1”).",
+            "14. During the Promotion Period, Cardholders of Eligible Cards who are also first-time registered iHerb members are entitled to a 30% off upon any spending when settling the payment in full of Eligible Cards and must successfully enter the designated promotion code “CITI30” (“Promo Code”) at the checkout page. (“Offer 2”).",
+            "15. During the Promotion Period, each cardholder can enjoy Offer 1 a maximum of two (2) times, subject to a total maximum discount cap of USD 300 per cardholder across the entire Promotion Period.",
+            "16. Offer 1 and Offer 2 are only applicable to iHerb official website and iHerb mobile app (“iHerb’s participating channels”).",
+            "17. Offer 1 and Offer 2 are valid in Hong Kong only.",
+            "18. Unless otherwise specified, the Offer cannot be used in conjunction with other promotion offer offered by iHerb.",
+            "19. Offer 1 and Offer 2 are subject to relevant terms and conditions; the Merchant reserves the right to change the duration, terms and conditions without prior notice."
+        ],
+        "anchorId": "hk-img-387264"
     }
 ];

@@ -21410,5 +21410,40 @@ window.OFFERS_DATA =
             "“Citibank” refers to Citibank Singapore Limited. The term “Carlton Hotel Singapore” refers to Carlton Hotel (Singapore) Pte Ltd."
         ],
         "anchorId": "sg-img-869890"
+    },
+    {
+        "offerNumber": 548,
+        "merchantId": "258891",
+        "merchantName": "COURTS",
+        "validity": "21-Nov-26 To 20-Dec-26",
+        "validFrom": "2026-11-21",
+        "validTo": "2026-12-20",
+        "offerType": "Shopping",
+        "offerSubType": "Electronics",
+        "offerTagName": "NULL",
+        "offerName": "Up to S$50 off Min S$1899 Spend",
+        "location": "Singapore",
+        "name": "Joseph Lim",
+        "offerImage": "offer_merc_image_258891.jpg",
+        "offerDescriptions": [
+            "• S$20 off minimum spend of $899 with Citi Cards at COURTS (Limited Redemptions)",
+            "• S$50 off minimum spend of $1,899 with Citi Cards at COURTS (Limited Redemptions)"
+        ],
+        "offerTermsAndConditions": [
+            "Promotion period is from 21 Nov 2026 – 20 Dec 2026 (both days inclusive), while stocks last.",
+            "Payment must be charged to a Citi Card.",
+            "Promotion not eligible for Purchasing Card / Citi Travel Lodge Card / Citi Travel Account.",
+            "Promotion not eligible for use with e-wallets.",
+            "Promotion is valid at all COURTS Singapore retail stores.",
+            "Promotion is applicable to full payment transactions only and not valid for Instalment Payments.",
+            "Promotion cannot be stacked or combined with other ongoing promotions unless otherwise stated.",
+            "Limited to 1 redemption per Transaction only.",
+            "Citibank's decision on all matters relating to the Promotion will be determined at its reasonable discretion and is final and binding on all participants.",
+            "Citibank shall not be responsible for the quality, merchantability or the fitness for any purpose or any other aspect of the products and/or services provided by third parties and Citibank shall not at any time be responsible or held liable for any loss, injury, damage or harm suffered by or in connection with the products and/or services provided by third parties. All disputes about quality or performance of the products and/or services shall be resolved directly with COURTS.",
+            "COURTS T&Cs apply.",
+            "Citibank and COURTS reserve the right, at their reasonable discretion, to vary, add to or delete the Promotion terms and/or terminate the Promotion at any time.",
+            "\"Citibank\" refers to Citibank Singapore Limited and \" COURTS \" refers to COURTS (Singapore) Pte Ltd."
+        ],
+        "anchorId": "sg-img-258891"
     }
 ]
